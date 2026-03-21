@@ -43,7 +43,7 @@
 
 Русскоязычная страница: [Уровневые экзамены по эстонскому языку - Haridus- ja Noorteamet](https://harno.ee/ru/ekzameny-testy-i-issledovaniya/ekzameny-testy-i-dokumenty-ob-okonchanii/urovnevye-ekzameny-po)
 
-### [Сдача экзамена на уровень A2](A2/index.md)
+### [Информация об экзамене на уровень A2](A2/index.md)
 
 ## Сайт Eksamite infosüsteem `eis.harno.ee` 
 Помимо регистрации на сайте есть и другая информация, включая тесты.  
