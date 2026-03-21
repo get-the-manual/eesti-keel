@@ -1,4 +1,4 @@
-site_name: База знаний по FPV
+site_name: Эстонский язык
 site_url: https://get-the-manual.github.io/fpv/
 site_description: >-
   Здесь находятся материалы по изучению эстонского языка.
@@ -37,9 +37,9 @@ theme:
     view: material/eye
 
 extra:
-  # analytics:
-      # provider: google
-      # property: G-1M1HCQQL63
+  analytics:
+      provider: google
+      property: G-85LR0ZS5R5
   consent:
     title: Cookie consent
     description: >-
