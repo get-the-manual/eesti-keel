@@ -22,13 +22,13 @@
 
   
 ## Страница на русском языке
-[Уровневые экзамены по эстонскому языку - Haridus- ja Noorteamet](https://harno.ee/ru/ekzameny-testy-i-issledovaniya/ekzameny-testy-i-dokumenty-ob-okonchanii/urovnevye-ekzameny-po)
+Открываем страницу [Уровневые экзамены по эстонскому языку - Haridus- ja Noorteamet](https://harno.ee/ru/ekzameny-testy-i-issledovaniya/ekzameny-testy-i-dokumenty-ob-okonchanii/urovnevye-ekzameny-po)
 
 Листаем вниз и открываем раздел `МАТЕРИАЛЫ ДЛЯ СДАЧИ УРОВНЕВОГО ЭКЗАМЕНА`
   
 В разделе ИНФОМАТЕРИАЛЫ находится ссылка на документ `Информационный лист для тех, кто сдает экзамен на знание эстонского языка` [`Teabeleht tasemeeksami sooritajale 2025.pdf`](https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf)
 
-Все ссылки ведут либо на эстоноязычную версию страницы либо на те же файл, что на ней.
+Все ссылки ведут либо на эстоноязычную версию страницы либо на те же файлы, что на ней.
 
 
 ## Полезные ресурсы:
