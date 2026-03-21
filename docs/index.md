@@ -9,6 +9,6 @@
 
 ## Другие ресурсы
 
-[Один из лучших рекомендуемых словарей эстонского языка Sõnaveeb](https://sonaveeb.ee/)
+[`Sõnaveeb`. Один из лучших рекомендуемых словарей эстонского языка](https://sonaveeb.ee/)
 
-[Тренировка эстонских чисел на слух](https://numbrid.eestikeeles.ee/)
+[`Eesti numbrid`. Тренировка эстонских чисел на слух](https://numbrid.eestikeeles.ee/)
