@@ -1,0 +1,57 @@
+site_name: База знаний по FPV
+site_url: https://get-the-manual.github.io/fpv/
+site_description: >-
+  Здесь находятся материалы по изучению эстонского языка.
+
+# Repository
+repo_name: get-the-manual/fpv
+repo_url: https://github.com/get-the-manual/eesti-keel
+edit_uri: edit/main/docs/
+
+plugins:
+  - search
+  - autorefs
+  - git-revision-date-localized:
+      enable_creation_date: true
+markdown_extensions:
+  - attr_list
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.action.view
+    - content.action.edit
+  icon:
+    edit: material/pencil 
+    view: material/eye
+
+extra:
+  # analytics:
+      # provider: google
+      # property: G-1M1HCQQL63
+  consent:
+    title: Cookie consent
+    description: >-
+      Мы используем куки для аналитики. Нажимая “Принять”, вы
+      помогаете нам улучшать документацию.
+
+nav:
+  - Главная страница: index.md
+  - Уровневые экзамены:
+    - Общая информация: Exams/index.md
+    - Регистрация: Exams/registration.md
+    - Уровень A2:
+      - Общая информация: Exams/A2/index.md
+      - Требования к экзаменуемым: Exams/A2/requirements.md
+      - Описание экзамена: Exams/A2/exam_description.md
