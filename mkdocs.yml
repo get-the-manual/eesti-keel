@@ -50,6 +50,7 @@ nav:
   - Главная страница: index.md
   - Уровневые экзамены:
     - Общая информация: Exams/index.md
+    - Сайт Eksamite infosüsteem: Exams/eis_harno_ee.md
     - Регистрация: Exams/registration.md
     - Уровень A2:
       - Общая информация: Exams/A2/index.md
