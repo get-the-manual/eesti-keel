@@ -1,10 +1,10 @@
 site_name: Эстонский язык
-site_url: https://get-the-manual.github.io/fpv/
+site_url: https://get-the-manual.github.io/eesti-keel/
 site_description: >-
   Здесь находятся материалы по изучению эстонского языка.
 
 # Repository
-repo_name: get-the-manual/fpv
+repo_name: get-the-manual/eesti-keel
 repo_url: https://github.com/get-the-manual/eesti-keel
 edit_uri: edit/main/docs/
 
