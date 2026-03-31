@@ -19,3 +19,5 @@
 
 [Veebipõhised eesti keele tasemetestid](http://web.meis.ee/testest/) – Онлайн-тесты на знание эстонского языка. Проверьте свои языковые навыки перед сдачей экзамена.
 
+[Произношение эстонских гласных - YouTube](https://www.youtube.com/playlist?list=PLGXy0egmRXj7Y1a-uDIDvy02xyj136-DF)
+
