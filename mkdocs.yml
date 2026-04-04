@@ -48,6 +48,8 @@ extra:
 
 nav:
   - Главная страница: index.md
+  - Обучение:
+    - Kuhu? Kus? Kust?: Study/KuhuKusKust.md
   - Уровневые экзамены:
     - Общая информация: Exams/index.md
     - Сайт EIS.harno.ee: Exams/eis_harno_ee.md
