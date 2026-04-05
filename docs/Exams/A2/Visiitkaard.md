@@ -5,9 +5,9 @@
 
 Kalle Toome töötab fotograafina.  
 Ta töötab Tartus fotostuudios Sinilill.   
-Esmaspäevast kolmapäevani töötab ta kella üheteistkümnest kuueni.  
-Laupäeval on ta tööl kella kaheteistkümnest neljani.  
-Tema E-mail on kalle@fotostuudio.ee.  
+Esmaspäevast kolmapäevani töötab ta kella 11.00–18.00 (üheteistkümnest kuueni).  
+Laupäeval on ta tööl kella 12.00–16.00 (kaheteistkümnest neljani).  
+Tema E-post on kalle@fotostuudio.ee.  
 Tema aadress on Jõe 17, Tartu.
 
 ## Пример 2
