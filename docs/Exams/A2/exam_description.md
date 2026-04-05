@@ -132,13 +132,15 @@
 ---
 
 ## **Материалы для консультации (Konsultatsiooni materjalid)**
-Чтобы заполнить тетрадь для консультаций, ее нужно сначала скачать на компьютер.
-* Тетрадь для консультаций уровня A2 [`A2_konsultatsioonivihik.pdf`](https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik.pdf)  
-* Тетрадь для консультаций уровня A2 для заполнения в компьютере [`A2_konsultatsioonivihik arvutis täitmiseks (1).pdf`](https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik%20arvutis%20t%C3%A4itmiseks%20%281%29.pdf)  
-* Тест по аудированию A2. [`A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3`](https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2)  
 
-### **Пример выполнения (Sooritusnäidis)**
-* Пример выполнения уровня A2 (Примеры снабжены пояснениями и опубликованы в оригинальном виде с разрешения авторов.) [`A2-taseme-sooritusnaidis.pdf`](https://harno.ee/sites/default/files/documents/2021-07/A2-taseme-sooritusnaidis.pdf)
+Чтобы заполнить тетрадь для консультаций, ее нужно сначала скачать на компьютер.  
+- Тетрадь для консультаций уровня A2 [`A2_konsultatsioonivihik.pdf`](https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik.pdf)  
+- Тетрадь для консультаций уровня A2 для заполнения в компьютере [`A2_konsultatsioonivihik arvutis täitmiseks (1).pdf`](https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik%20arvutis%20t%C3%A4itmiseks%20%281%29.pdf)  
+- Тест по аудированию A2. [`A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3`](https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2)  
+
+### **Пример выполнения (Sooritusnäidis)**  
+
+- Пример выполнения уровня A2 (Примеры снабжены пояснениями и опубликованы в оригинальном виде с разрешения авторов.) [`A2-taseme-sooritusnaidis.pdf`](https://harno.ee/sites/default/files/documents/2021-07/A2-taseme-sooritusnaidis.pdf)
 
 
 Посмотрите вводное видео к экзамену на уровень владения языком A2 [Eesti keele tasemeeksamid - A2 EST](https://www.youtube.com/watch?v=xJPPXY7_QPU)
