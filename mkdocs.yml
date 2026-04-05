@@ -58,5 +58,6 @@ nav:
       - Общая информация: Exams/A2/index.md
       - Требования к экзаменуемым: Exams/A2/requirements.md
       - Описание экзамена: Exams/A2/exam_description.md
-      - Примеры ответов:
-        - Описание визитки: Exams/A2/Visiitkaard.md
+      - Примеры заданий:
+        - Kirjutamine 1: Exams/A2/Kirjutamine_1.md
+        - Kirjutamine 2: Exams/A2/Kirjutamine_2.md
