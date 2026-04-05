@@ -2,7 +2,7 @@
 
 ##  (A) **Teade (sõnum, kutse)**  
 
-### Пример 1
+### Пример 1 (мой)
 
 Leidsite oma kodust sõbra rahakoti. Kirjutage talle teade:  
 - Kust te rahakoti leidsite?  
@@ -22,7 +22,7 @@ Kirjuta mulle, millal me saame kohtuda.
 Tervitades
 Alex
 
-### Пример 2
+### Пример 2 (FB)
 
 **Kutse**
 
@@ -39,10 +39,34 @@ Alex
 
 ##  (B) **Kirjeldus etteantud teemal**  
 
-### Пример 1
+### Пример 1 (harno.ee)
+
+**Minu tööpäev** 
+
+Ma töötan Lasteaega „Ajonuška“. 
+Lasteaed asub Kohtla-Järve linna, Mõisa tee tänaval. 
+Ma töötan kella kaheksani kuni vieteist kümneni. 
+Ma olen majandusjuhataja. 
+Hommikul ma vaatan, kas kõik korras laste aega, vaatan vaja midagi pedagoogiabiline. 
+Ma kaisin kaupluses ostsin inventar, ehitusematerjale, Mööbel, kõik mis on vaja lasteaega. 
+Parast lõuna ma tegin dokumentatsioni.
+
+### Пример 2 (harno.ee)
+
+**Minu tööpäev**
+
+Ma tõusen hommikul kell 6.00 ja kohe pesen. 
+Ma riietun. Ma valmistan sööki, jöön ja söön.
+Minu tööpäev algab kell 8.00 ja kestab 8 tundi.
+Minu töökoht asub Pääskulasse. 
+See on Pääsküla Elektri depoo. Minu töölõpp kell 17.00. 
+Ma töötan graafiku järgi. See on väga mugav.
+Ma sõidan koju tagasi kell 19.00
+
+### Пример 3 (мой)
 
 Teie eesti keele õpetaja palus teil kirjeldada oma nädalavahetust.  
-Kirjutage teemal: ** Minu nädalavahetus**  
+Kirjutage teemal: **Minu nädalavahetus**  
 - Kus käin?  
 - Mida teen?  
 - Kellega kohtun?    
@@ -57,19 +81,10 @@ Pühapäeval kohtusin oma sõbra Romaniga. Me käisime staadionil ja mängisime 
 Meile meeldib sporti teha ja me käime staadionil kaks korda kuus.
 Pühapäeva õhtul vaatasin ma koos perega telekat.
 
-### Пример 2
 
-**Minu lemmikloom**
+### Пример 4 (мой)
 
-Minu lemmikloom on koer, kelle nimi on Rex.  
-Ta on suur ja tugev, tal on pruun karv, mustad kõrvad ja valged käpad.  
-Rex armastab õues joosta. Ta on väga sõbralik ja armastab inimesi.  
-Igal hommikul ärkab ta varakult ja toob mulle oma lemmikpalli, et mängida.  
-Rex on mulle väga tähtis, sest ta on hea sõber, kes teeb mind iga päev õnnelikuks.
-
-### Пример 3
-
-**Minu päev**
+**Minu tööpäev** 
 
 Ma tõusen hommikul kell 7 ja pesen end kohe.  
 Ma riietun.   
@@ -83,3 +98,13 @@ Minu tööpäev lõppeb kell 18.
 Ma panen arvuti kinni ja söön õhtusööki.  
 Õhtul vaatan ma uudiseid ja suhtlen perega.  
 Ma lähen magama kell 11 õhtul.  
+
+### Пример 5 (FB)
+
+**Minu lemmikloom**
+
+Minu lemmikloom on koer, kelle nimi on Rex.  
+Ta on suur ja tugev, tal on pruun karv, mustad kõrvad ja valged käpad.  
+Rex armastab õues joosta. Ta on väga sõbralik ja armastab inimesi.  
+Igal hommikul ärkab ta varakult ja toob mulle oma lemmikpalli, et mängida.  
+Rex on mulle väga tähtis, sest ta on hea sõber, kes teeb mind iga päev õnnelikuks.
