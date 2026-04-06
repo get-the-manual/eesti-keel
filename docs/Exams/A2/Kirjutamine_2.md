@@ -12,14 +12,14 @@ Leidsite oma kodust sõbra rahakoti. Kirjutage talle teade:
 
 Tere, Tom!
 
-Eile õhtul leidsin ma sinu rahakoti. 
-See oli esikus tooli all.
-Rahakott on must ja rohelise joonega.
-Rahakotis on sinu ID-kaart, pangakaart ja natuke raha.
-Saan sulle rahakoti nädalavahetusel tagasi anda.
-Kirjuta mulle, millal me saame kohtuda.
+Eile õhtul leidsin ma sinu rahakoti.  
+See oli esikus tooli all.  
+Rahakott on must ja rohelise joonega.  
+Rahakotis on sinu ID-kaart, pangakaart ja natuke raha.  
+Saan sulle rahakoti nädalavahetusel tagasi anda.  
+Kirjuta mulle, millal me saame kohtuda.  
 
-Tervitades
+Tervitades  
 Alex
 
 ### Пример 2 (FB)
@@ -31,10 +31,10 @@ Tere!
 Kutsun sind oma sünnipäevapeole!  
 Peo toimumisaeg on laupäeval kell 18:00 minu kodus.  
 Aadress on Pikk tänav 12. Kui vajad infot, helista mulle telefonil 5551234.  
-Palun too kaasa midagi süüa või juua, et meil oleks veel lõbusam! 
+Palun too kaasa midagi süüa või juua, et meil oleks veel lõbusam!  
 Ootan sind!
 
-Parimat  
+Parimat   
 Alex
 
 ##  (B) **Kirjeldus etteantud teemal**  
@@ -43,25 +43,25 @@ Alex
 
 **Minu tööpäev** 
 
-Ma töötan Lasteaega „Ajonuška“. 
-Lasteaed asub Kohtla-Järve linna, Mõisa tee tänaval. 
-Ma töötan kella kaheksani kuni vieteist kümneni. 
-Ma olen majandusjuhataja. 
-Hommikul ma vaatan, kas kõik korras laste aega, vaatan vaja midagi pedagoogiabiline. 
-Ma kaisin kaupluses ostsin inventar, ehitusematerjale, Mööbel, kõik mis on vaja lasteaega. 
-Parast lõuna ma tegin dokumentatsioni.
+Ma töötan Lasteaega „Ajonuška“.  
+Lasteaed asub Kohtla-Järve linna, Mõisa tee tänaval.  
+Ma töötan kella kaheksani kuni vieteist kümneni.  
+Ma olen majandusjuhataja.  
+Hommikul ma vaatan, kas kõik korras laste aega, vaatan vaja midagi pedagoogiabiline.  
+Ma kaisin kaupluses ostsin inventar, ehitusematerjale, Mööbel, kõik mis on vaja lasteaega.  
+Parast lõuna ma tegin dokumentatsioni.  
 
 ### Пример 2 (harno.ee)
 
 **Minu tööpäev**
 
-Ma tõusen hommikul kell 6.00 ja kohe pesen. 
-Ma riietun. Ma valmistan sööki, jöön ja söön.
-Minu tööpäev algab kell 8.00 ja kestab 8 tundi.
-Minu töökoht asub Pääskulasse. 
-See on Pääsküla Elektri depoo. Minu töölõpp kell 17.00. 
-Ma töötan graafiku järgi. See on väga mugav.
-Ma sõidan koju tagasi kell 19.00
+Ma tõusen hommikul kell 6.00 ja kohe pesen.   
+Ma riietun. Ma valmistan sööki, jöön ja söön.  
+Minu tööpäev algab kell 8.00 ja kestab 8 tundi.  
+Minu töökoht asub Pääskulasse.   
+See on Pääsküla Elektri depoo. Minu töölõpp kell 17.00.   
+Ma töötan graafiku järgi. See on väga mugav.  
+Ma sõidan koju tagasi kell 19.00  
 
 ### Пример 3 (мой)
 
@@ -73,20 +73,20 @@ Kirjutage teemal: **Minu nädalavahetus**
 
 **Minu nädalavahetus**
 
-Mul oli väga huvitav nädalavahetus.
-Laupäeva hommikul koristasin ma oma korterit.
-Pärast lõunasööki läksin tütrega kinno, sest praegu jookseb uus multifilm "Super Mario".
-See oli väga tore. Me vaatasime seda, sõime kartulikrõpse ja jõime mahla.
-Pühapäeval kohtusin oma sõbra Romaniga. Me käisime staadionil ja mängisime jalgpalli.
-Meile meeldib sporti teha ja me käime staadionil kaks korda kuus.
-Pühapäeva õhtul vaatasin ma koos perega telekat.
+Mul oli väga huvitav nädalavahetus.  
+Laupäeva hommikul koristasin ma oma korterit.  
+Pärast lõunasööki läksin tütrega kinno, sest praegu jookseb uus multifilm "Super Mario".  
+See oli väga tore. Me vaatasime seda, sõime kartulikrõpse ja jõime mahla.  
+Pühapäeval kohtusin oma sõbra Romaniga. Me käisime staadionil ja mängisime jalgpalli.  
+Meile meeldib sporti teha ja me käime staadionil kaks korda kuus.  
+Pühapäeva õhtul vaatasin ma koos perega telekat.  
 
 
 ### Пример 4 (мой)
 
 **Minu tööpäev** 
 
-Ma tõusen hommikul kell 7 ja pesen end kohe.  
+Ma tõusen hommikul kell 7 ja pesen end kohe.    
 Ma riietun.   
 Pärast valmistan ma hommikusööki, joon ja söön.  
 Ma töötan arvutiga kodus.  
