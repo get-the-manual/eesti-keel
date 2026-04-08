@@ -14,7 +14,7 @@ Tere, Tom!
 
 Eile õhtul leidsin ma sinu rahakoti.  
 See oli esikus tooli all.  
-Rahakott on must ja rohelise joonega.  
+Rahakott on must ja rohelise triibuga.  
 Rahakotis on sinu ID-kaart, pangakaart ja natuke raha.  
 Saan sulle rahakoti nädalavahetusel tagasi anda.  
 Kirjuta mulle, millal me saame kohtuda.  
