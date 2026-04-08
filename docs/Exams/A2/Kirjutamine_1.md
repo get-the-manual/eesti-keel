@@ -18,6 +18,7 @@ Tema aadress on Jõe 17, Tartu.
 See asutus on Tamme ujula.  
 See asub Tallinnas aadressil Kalda tee 12.  
 Seal saab ujuda basseinis, käia saunas, minna massaaži või kosmeetiku juurde.  
+Ujula on avatud esmaspäevast pühapäevini kella kaheksast kaheksani.  
 Telefon on 6781389 ja internet on tammeujula.ee.
 
 ## Пример 3 (мой)
