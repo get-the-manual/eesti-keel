@@ -27,7 +27,7 @@
 Листаем вниз и открываем раздел `МАТЕРИАЛЫ ДЛЯ СДАЧИ УРОВНЕВОГО ЭКЗАМЕНА`
   
 В разделе ИНФОМАТЕРИАЛЫ находится ссылка на документ `Информационный лист для тех, кто сдает экзамен на знание эстонского языка` [`Teabeleht tasemeeksami sooritajale 2025.pdf`](https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf)  
-[перевод](../Teabeleht-tasemeeksami-sooritajale-rus.md)
+[Перевод документа](../Teabeleht-tasemeeksami-sooritajale-rus.md)
 
 Все ссылки ведут либо на эстоноязычную версию страницы либо на те же файлы, что на ней.
 
