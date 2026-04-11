@@ -25,7 +25,10 @@
 [перевод инструкции](Manual.md)
 
 📘 Информационный лист об экзамене 3-го уровня
-[👉 здесь]( https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQCxBTUBdZ3zRbJTZxPAN99_AZlPe02PnpMnLb-4xPxq22I)
+[👉 здесь]( https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQCxBTUBdZ3zRbJTZxPAN99_AZlPe02PnpMnLb-4xPxq22I)  
+Так же данный документ находится здесь: `Информационный лист для тех, кто сдает экзамен на знание эстонского языка` [`Teabeleht tasemeeksami sooritajale 2025.pdf`](https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf)  
+[Перевод документа](../../Teabeleht-tasemeeksami-sooritajale-rus.md)
+
 
 Файлы откроются в среде SharePoint и будут там видны.  
 Мы рекомендуем вам ознакомиться с ними перед консультацией и при необходимости сохранить их на свой компьютер.  
