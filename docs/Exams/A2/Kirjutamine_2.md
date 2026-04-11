@@ -73,14 +73,13 @@ Kirjutage teemal: **Minu nädalavahetus**
 
 **Minu nädalavahetus**
 
-Mul oli väga huvitav nädalavahetus.  
-Laupäeva hommikul koristasin ma oma korterit.  
-Pärast lõunasööki läksin tütrega kinno, sest praegu jookseb uus multifilm "Super Mario".  
-See oli väga tore. Me vaatasime seda, sõime kartulikrõpse ja jõime mahla.  
-Pühapäeval kohtusin oma sõbra Romaniga. Me käisime staadionil ja mängisime jalgpalli.  
-Meile meeldib sporti teha ja me käime staadionil kaks korda kuus.  
-Pühapäeva õhtul vaatasin ma koos perega telekat.  
-
+Minu nädalavahetus on väga aktiivne.  
+Ma tõusen kell 9, pesen end ja söön hommikusööki.  
+Tavaliselt laupäeval ja pühapäeval käin ma jalutamas oma koeraga. Mulle meeldib käia Glehni pargis ja Harku metsas. Seal on väga vaikne.  
+Pärast jalutuskäiku koristan ma oma korterit ja teen kodutöid.  
+Õhtuti ma helistan oma vanematele ja me arutame uudiseid.  
+Pühapäeval käime me mõnikord perega kinos. Meil on odavad piletid, sest ma ostsin vautšereid.  
+Õhtuti me vaatame uudiseid.
 
 ### Пример 4 (мой)
 
