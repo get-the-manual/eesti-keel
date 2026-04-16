@@ -331,7 +331,7 @@ C. Ma ei tea, kus.
 
 1 A  
 2 B  
-3 C  
+3 A (C??)  
 4 A  
 5 A  
 6 B  
