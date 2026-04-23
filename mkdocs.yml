@@ -53,8 +53,10 @@ nav:
     - -ma, -mas, -ta/-da: Study/-ma-mas-da-ta.md
     - Личные качества: Study/Isikuomadused.md
     - Профессии: Study/Ametid.md
-    - Местоимение `ise`(сам): Study/ise.md
-    - Местоимения `kes`(кто), `mis`(что): Study/kes-mis.md
+    - Местоимения: 
+      - `ise`(сам): Study/ise.md
+      - `kes`(кто), `mis`(что): Study/kes-mis.md
+      - `see`(это): Study/see.md
     - Викторина: Study/Kuldvillak/Questions.md
   - Уровневые экзамены:
     - Общая информация: Exams/index.md
