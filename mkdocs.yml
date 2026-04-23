@@ -55,9 +55,9 @@ nav:
     - Профессии: Study/Ametid.md
     - Семья: Study/pere.md
     - Местоимения: 
-      - `ise`(сам): Study/ise.md
-      - `kes`(кто), `mis`(что): Study/kes-mis.md
-      - `see`(это): Study/see.md
+      - ise(сам): Study/ise.md
+      - kes(кто), mis(что): Study/kes-mis.md
+      - see(это): Study/see.md
     - Викторина: Study/Kuldvillak/Questions.md
   - Уровневые экзамены:
     - Общая информация: Exams/index.md
