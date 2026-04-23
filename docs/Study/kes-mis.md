@@ -47,7 +47,7 @@
 | Форма | Перевод | Пример |
 | :--- | :--- | :--- |
 | **millesse** | во что | **Millesse** sa usud? (Во что ты веришь?) |
-| **milles** | в чём | **Milles** on probleem? (В чём проблема?) |
+| **milles** | в чём, в котором | **Milles** on probleem? (В чём проблема?) |
 | **millest** | о чём / из чего | **Millest** sa räägid? (О чём ты говоришь?) |
 | **millele** | чему / на что | **Millele** sa mõtled? (О чём/на что ты думаешь?) |
 | **millel** | на чём | **Millel** sa sõidad? (На чём ты едешь?) |
