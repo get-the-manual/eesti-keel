@@ -39,27 +39,27 @@ onupoeg
 onunaine  
 
 ## tütar / tütre
-tütretütar - дочери дочь
-tütrepoeg - дочери сын
-tütremees - дочери муж
-väimees  (зять)
+tütretütar - дочери дочь  
+tütrepoeg - дочери сын  
+tütremees - дочери муж  
+väimees  (зять)  
 
 ## poeg / pojad
-pojatütar - сына дочь (внук)
-pojapoeg - сына сын (внук)
-pojanaine - сына жена
-minia - pojanaine (невестка)
+pojatütar - сына дочь (внук)  
+pojapoeg - сына сын (внук)  
+pojanaine - сына жена  
+minia - pojanaine (невестка)  
 
 # naine / naised
-naisetütar - жены дочь,   (от предыдущего брака)
-naisepoeg - жены сын  (от предыдущего брака)
-naiseõde
-naisevend
+naisetütar - жены дочь,   (от предыдущего брака)  
+naisepoeg - жены сын  (от предыдущего брака)  
+naiseõde  
+naisevend  
 
 ## mees / mehed
-mehetütar - мужа дочь (от предыдущего брака)
-mehepoeg
-meheõde
+mehetütar - мужа дочь (от предыдущего брака)  
+mehepoeg  
+meheõde  
 mehevend - мужа брат
 
 
