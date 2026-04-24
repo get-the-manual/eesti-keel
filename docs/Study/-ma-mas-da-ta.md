@@ -13,6 +13,7 @@ sõitma - ехать
 tulema - приходить  
 jooksma - бежать  
 õppima - учиться  
+õpetama - учить  
 paluma - просить  
 olen harjunud - привык  
 olen valmis - готов  
