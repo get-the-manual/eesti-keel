@@ -104,7 +104,7 @@ Tal käib pea ringi. - У него головокружение
 Tal on peavalu - головная боль  
 Tal on kõhuvalu -  боль в животе  
 Tal on hambavalu - зубная боль  
-Tal on kurguvalu - боль в горло  
+Tal on kurguvalu - боль в горле  
 Tal on seljavalu - боль в спине  
 
 
