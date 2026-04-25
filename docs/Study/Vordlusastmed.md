@@ -69,7 +69,7 @@ pikk - pik**a** - pik**em**
 kuum - kuum**a** - kuum**em**  
 soe - so**ja** - so**jem**  
 
-### Другие слова
+### Другой корень
 
 palju - rokhem  
 hea - parem  
