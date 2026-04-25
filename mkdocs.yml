@@ -51,17 +51,17 @@ nav:
   - Обучение:
     - Kuhu? Kus? Kust?: Study/KuhuKusKust.md
     - -ma, -mas, -ta/-da: Study/-ma-mas-da-ta.md
-    - Kaassõnad (Предлоги и послелоги): Study/Kaassonad.md
-    - Числа: Study/Numbrid.md
+    - Вежливость (Viisakus): Study/Viisakus.md
     - Личные качества: Study/Isikuomadused.md
-    - Профессии: Study/Ametid.md
-    - Семья: Study/pere.md
+    - Предлоги, послелоги (Kaassõnad): Study/Kaassonad.md
+    - Профессии (Ametid): Study/Ametid.md
+    - Семья (Pere): Study/pere.md
+    - Числа (Numbrid): Study/Numbrid.md
     - Местоимения: 
       - ise (сам): Study/ise.md
       - kes (кто), mis (что): Study/kes-mis.md
       - keegi (кто-то), miski (что-то): Study/keegi-miski.md
       - see (это): Study/see.md
-    - Викторина: Study/Kuldvillak/Questions.md
   - Уровневые экзамены:
     - Общая информация: Exams/index.md
     - Сайт EIS.harno.ee: Exams/eis_harno_ee.md
@@ -80,3 +80,4 @@ nav:
         - Kuulamine 1:  Exams/A2/Kuulamine_1.md
         - Kuulamine 4:  Exams/A2/Kuulamine_4.md
         - Lugemine 1: Exams/A2/Lugemine_1.md
+  - Викторина: Study/Kuldvillak/Questions.md
