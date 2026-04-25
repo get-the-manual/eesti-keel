@@ -4,21 +4,21 @@
 
 | #      | Mis? (1)        | Mille? Omastav (2) | Mitmes? (какой/е?) (3) | Mitmenda? - Чей? Какой? | Mitmendal? Kus? Millal? где? когда? в/на каком? (4) | Kuhu? Millele? куда? на что? (5) |
 | ------ | --------------- | ------------------ | ---------------------- | ----------------------- | --------------------------------------------------- | -------------------------------- |
-| **1**  | üks             | ühe                | esimene                | esime`se`             | esime`sel`                                        | esimesele                        |
-| **2**  | kaks            | kahe               | teine                  | tei`se`               | tei`sel`                                          | teisele                          |
-| **3**  | kolm            | kolme              | kolma`s`             | kolma`nda`            | kolma`ndal`                                       | kolma`ndale`                   |
-| **4**  | neli            | nelja              | nelja`s`             | nelja`nda`            | nelja`ndal`                                       | nelja`ndale`                   |
-| **5**  | viis            | viie               | viie`s`              | viie`nda`             | viie`ndal`                                        | viie`ndale`                    |
-| **6**  | kuus            | kuue               | kuue`s`              | kuue`nda`             | kuue`ndal`                                        | kuue`ndale`                    |
-| **7**  | seitse          | seitsme            | seitsme`s`           | seitsme`nda`          | seitsme`ndal`                                     | seitsme`ndale`                 |
-| **8**  | kaheksa         | kaheksa            | kaheksa`s`           | kaheksa`nda`          | kaheksa`ndal`                                     | kaheksa`ndale`                 |
-| **9**  | üheksa          | üheksa             | üheksa`s`            | üheksa`nda`           | üheksa`ndal`                                      | üheksa`ndale`                  |
-| **10** | kümme           | kümne              | kümne`s`             | kümne`nda`            | kümne`ndal`                                       | kümne`ndale`                   |
-| **11** | üksteist        | üheteistkümne      | üheteistkümne`s`     | üheteistkümne`nda`    | üheteistkümne`ndal`                               | üheteistkümne`ndale`           |
-| **12** | kaksteist       | kaheteistkümne     | kaheteistkümne`s`    | kaheteistkümne`nda`   | kaheteistkümne`ndal`                              | kaheteistkümne`ndale`          |
-| **20** | kakskümmend     | kahekümne          | kahekümne`s`         | kahekümne`nda`        | kahekümne`ndal`                                   | kahekümne`ndale`               |
-| **21** | kakskümmend üks | kahekümne ühe      | kahekümne esimene      | kahekümne esime`se`   | kahekümne esime`sel`                              | kahekümne esimesele              |
-| 30     | kolmkümmend     | kolmekümne         | kolmekümne`s`        | kolmekümne`nda`       | kahekümne`ndal`                                   | kahekümne`ndale`               |
+| **1**  | üks             | ühe                | esimene                | esime**se**             | esime**sel**                                        | esimesele                        |
+| **2**  | kaks            | kahe               | teine                  | tei**se**               | tei**sel**                                          | teisele                          |
+| **3**  | kolm            | kolme              | kolma**s**             | kolma**nda**            | kolma**ndal**                                       | kolma**ndale**                   |
+| **4**  | neli            | nelja              | nelja**s**             | nelja**nda**            | nelja**ndal**                                       | nelja**ndale**                   |
+| **5**  | viis            | viie               | viie**s**              | viie**nda**             | viie**ndal**                                        | viie**ndale**                    |
+| **6**  | kuus            | kuue               | kuue**s**              | kuue**nda**             | kuue**ndal**                                        | kuue**ndale**                    |
+| **7**  | seitse          | seitsme            | seitsme**s**           | seitsme**nda**          | seitsme**ndal**                                     | seitsme**ndale**                 |
+| **8**  | kaheksa         | kaheksa            | kaheksa**s**           | kaheksa**nda**          | kaheksa**ndal**                                     | kaheksa**ndale**                 |
+| **9**  | üheksa          | üheksa             | üheksa**s**            | üheksa**nda**           | üheksa**ndal**                                      | üheksa**ndale**                  |
+| **10** | kümme           | kümne              | kümne**s**             | kümne**nda**            | kümne**ndal**                                       | kümne**ndale**                   |
+| **11** | üksteist        | üheteistkümne      | üheteistkümne**s**     | üheteistkümne**nda**    | üheteistkümne**ndal**                               | üheteistkümne**ndale**           |
+| **12** | kaksteist       | kaheteistkümne     | kaheteistkümne**s**    | kaheteistkümne**nda**   | kaheteistkümne**ndal**                              | kaheteistkümne**ndale**          |
+| **20** | kakskümmend     | kahekümne          | kahekümne**s**         | kahekümne**nda**        | kahekümne**ndal**                                   | kahekümne**ndale**               |
+| **21** | kakskümmend üks | kahekümne ühe      | kahekümne esimene      | kahekümne esime**se**   | kahekümne esime**sel**                              | kahekümne esimesele              |
+| **30** | kolmkümmend     | kolmekümne         | kolmekümne**s**        | kolmekümne**nda**       | kahekümne**ndal**                                   | kahekümne**ndale**               |
 
 
 1. **Колонка 1 (Mis?):** Просто называем число или считаем предметы (Nimetav).  
@@ -32,8 +32,7 @@
 
 ## Правила применения
 
-### **Колонка 2: Mille? (Omastav — Родительный падеж)**
-
+### **(2) Mille?**
 
 * **Принадлежность или описание:** Когда число характеризует следующий за ним предмет.  
 * *Kolme korruse maja* — Дом трех этажей (трехэтажный).  
@@ -55,7 +54,7 @@
 - _Ma ostan **ühe** pileti._ (Я `покупаю` один билет — здесь _ühe_, потому что есть действие покупки).  
 - Ma annan sulle ühe toreda harjutuse - Я `дам` тебе одно замечательное упражнение
 
-### **Колонка 3: Mitmes? (Порядковые числительные)**
+### **(3) Mitmes?**
 
 Эта форма отвечает на вопрос **«Который по счету?»**. Мы используем её для дат, этажей, мест в очереди.
 
@@ -69,17 +68,22 @@
 * *Ta sai võistlusel **teise** koha.* — Он занял на соревновании второе место.
 
 
-### **Колонка 4 (Millele?):** Направление или нахождение (на этаж, на время, к числу).
+### **(4) Millele?** 
+
+Направление или нахождение (на этаж, на время, к числу).
 
 это форма **Alaleütlev** (падеж направления «на что-то»). Она образуется по формуле: **Колонка 2 (Omastav) + суффикс -le**.
 
-#### 1. Местоположение (Ответ на вопрос «На чём? / На какой?»)
+#### 1. Местоположение 
 
-В эстонском языке, когда мы говорим об этажах, используется падеж **-le/-l**.  
+Ответ на вопрос «На чём? / На какой?»)
+
+Когда мы говорим об этажах, используется падеж **-le/-l**.  
 - **Пример:** _Ma elan **kolmandal** korrusel._ (Я живу на третьем этаже).    
 - **Пример:** _Tõsta see **teisele** riiulile._ (Положи это на вторую полку).  
 
 ### Колонка 5
+
 ####  Время (Ответ на вопрос «На какое время? / К какому часу?»)
 
 Используется, когда мы назначаем встречу или указываем временную границу.  
