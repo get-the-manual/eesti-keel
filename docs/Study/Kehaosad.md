@@ -100,7 +100,7 @@ Tal on väsimus. - У него слабость (усталость)
 Tal on allergia. - У него аллергия  
 Tal käib pea ringi. - У него головокружение	
 
-Синонимы:
+Синонимы:  
 Tal on peavalu - головная боль  
 Tal on kõhuvalu -  боль в животе  
 Tal on hambavalu - зубная боль  
