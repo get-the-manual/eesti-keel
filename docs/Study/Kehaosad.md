@@ -90,22 +90,22 @@ kõverad - кривые
 ## Болезни
 Tal on köha. - У него кашель  
 Tal on nohu. - У него насморк  
-Tal valutab hammas. - У него болит зуб  
 Tal on palavik ja külmavärinad. - У него жар (температура) и озноб  
-Tal valutab kurk. - У него болит горло  
 Tal on süda paha. - У него тошнота  
-Tal valutab kael. - У него болит шея  
-Tal valutab kõht. - У него болит живот  
 Tal on väsimus. - У него слабость (усталость)  
 Tal on allergia. - У него аллергия  
+Tal valutab hammas. - У него болит зуб  
+Tal valutab kurk. - У него болит горло  
+Tal valutab kael. - У него болит шея  
+Tal valutab kõht. - У него болит живот  
 Tal käib pea ringi. - У него головокружение	
 
 Синонимы:  
 Tal on peavalu - головная боль  
 Tal on kõhuvalu -  боль в животе  
 Tal on hambavalu - зубная боль  
-Tal on kurguvalu - горло  
-Tal on seljavalu - спина  
+Tal on kurguvalu - боль в горло  
+Tal on seljavalu - боль в спине  
 
 
 ## Куда пойти / позвонить
@@ -134,13 +134,13 @@ polikliinikusse
 
 ## Примеры
 Kui mul on hambavalu, siis ma lähen hambaarsti juurde. - Когда у меня зубная боль, тогда я иду к стоматологу  
-Kui mul on kurguvalu, siis ma helistan kurguarstile. - Когда у меня болит горло, тогда я звоню лору (горловрачу)  
 Kui mul on seljavalu, siis ma lähen ortopeedi juurde. - Когда у меня болит спина, тогда я иду к ортопеду  
 Kui mul valutavad põlved, siis ma lähen kirurgi juurde. - Когда у меня болят колени, тогда я иду к хирургу  
+Kui ma näen halvasti, siis ma lähen silmaarsti juurde. - Когда я плохо вижу, тогда я иду к окулисту  
+Kui mul on kurguvalu, siis ma helistan kurguarstile. - Когда у меня болит горло, тогда я звоню лору (горловрачу)  
 Kui mul on väga kõrge palavik ja külmavärinad, siis ma helistan perearstile. - Когда у меня очень высокая температура и озноб, тогда я звоню семейному врачу  
 Kui mul on süda paha, siis ma helistan kiirabisse. - Когда у меня тошнота, тогда я звоню в скорую помощь  
-Kui mul on kevadväsimus, siis ma ostan vitamiine. - Когда у меня (весенняя) усталость, слабость, я покупаю витамины  
-Kui ma näen halvasti, siis ma lähen silmaarsti juurde. - Когда я плохо вижу, тогда я иду к окулисту  
 Kui mul on allergia, siis ma helistan allergoloogile. - Когда у меня аллергия, тогда я звоню аллергологу  
 Kui mul valutab küünarnukk, siis ma helistan kirurgile. - Когда у меня болит локоть, тогда я звоню хирургу  
+Kui mul on kevadväsimus, siis ma ostan vitamiine. - Когда у меня (весенняя) усталость, слабость, я покупаю витамины  
 
