@@ -109,16 +109,16 @@
 ## Составные числа
 
 В составных числах (21, 35, 102) работает «правило очереди»:  
-- **Только последнее слово** показывает, что число порядковое (3-я колонка).  
-- **Все предыдущие слова** «замирают» в форме **Omastav (2-я колонка)**.  
+- **Только последнее слово** показывает, что число порядковое (Mitmes?).  
+- **Все предыдущие слова** «замирают» в форме **Omastav**.  
 
-| **Число** | **Как строим (Логика)** | **Результат (Mitmes?)** |
-| --------- | ----------------------- | ----------------------- |
-| **20**    | (20 в 3-й колонке)      | **kahekümnes**          |
-| **21**    | (20 во 2-й) + (1 в 3-й) | **kahekümne esimene**   |
-| **22**    | (20 во 2-й) + (2 в 3-й) | **kahekümne teine**     |
-| **30**    | (30 в 3-й колонке)      | **kolmekümnes**         |
-| **35**    | (30 во 2-й) + (5 в 3-й) | **kolmekümne viies**    |
+| **Число** | **Mitmes?**       | **Mitmendal?**      |
+| --------- | ------------------| --------------------|
+| 20        | kahekümnes        | kahekümnendal       |
+| 21        | kahekümne esimene | kahekümne esimesel  |
+| 22        | kahekümne teine   | kahekümne teisel    |
+| 30        | kolmekümnes       | kolmekümnendal      |
+| 35        | kolmekümne viies  | kolmekümne viiendal |
 
 ## Прилагательные
 
@@ -144,7 +144,8 @@ Ma otsin `kahetoalist` korterit. - Я ищу двухкомнатную квар
 ![](Kuupaevad.jpg)
 
 ### **Mitmes?** (Какое число?)
-3-я форма (-s) и месяц в первой форме  
+
+`-s` и месяц в первой форме  
 esimene jaanuar  
 teine veebruar  
 kolmas märts  
@@ -156,8 +157,9 @@ viieteistkümnes
 kahekümnes  
 kahekümne viies  
 
-### Mitmendal? (какого числа?)
- 4-я форма (-dal) и месяц `-l`  
+### **Mitmendal?** (какого числа?)
+
+ `-dal` и месяц `-l`  
  esimesel jaanuaril  
  teisel veebruaril  
  kolmandal märtsil  
