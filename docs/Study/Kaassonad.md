@@ -42,73 +42,71 @@ põhisõna (omastav) + tagasõna
 
 
 ### Построение. Акцент на предмете
-Акцент на предмете. `ЧТО` находится?
+Акцент на предмете. **ЧТО** находится?
 
 #### Положительная форма 
 
-`Tagasõna` on V1  
-Vasakul on aken. Слева - окно.
+**Tagasõna** on V1  
+Vasakul on aken. (Слева - окно.)
 
-`V2 tagasõna` `on` V1  
+**V2 tagasõna** **on** V1  
 Akna ees on kardinad. (Перед окном - гардина)
 
-`V2-st слева/справа` on V1  
-Laua`st` vasakul on tool. (Слева от стола - стул)
+**V2-l** on V1 (на поверхности)  
+Põranda**l** on hele vaip. (На полу - светлый ковер)  
+Laua**l** on tass. (На столе чашка)  
 
-`V2-l` on V1 (на поверхности)  
-Põranda`l` on hele vaip. (На полу - светлый ковер)  
-Laua`l` on tass. (На столе чашка)  
+**V2-st слева/справа** on V1  
+Laua**st** vasakul on tool. (Слева от стола - стул)
 
 ####  Отрицательная форма: V1 => V3
 
-`V2 tagasõna` `ei ole` V3  
+**V2 tagasõna** **ei ole** V3  
 Akna ees ei ole kardinat. (Перед окном нет гардины)
 
-`V2-l` ei ole V3 (на поверхности)  
+**V2-l** ei ole V3 (на поверхности)  
 Põrandal ei ole vaipa. (На полу нет ковра)
 
 
 ### Построение. Акцент на месте
 
-Акцент на месте. `ГДЕ` предмет?
+Акцент на месте. **ГДЕ** предмет?
 
-#### Положительная форма 
+V1 on **tagasõna**    
+Aken on vasakul. (Окно - слева)  
+Kardinad ei ole akna taga   
 
-V1 on `tagasõna`    
-Aken on vasakul. Окно - слева  
-Kardinad ei ole akna taga  
+V1 on **V2 tagasõna**    
+Kardinad on akna ees (Гардина - перед окном)  
 
-V1 on `V2 tagasõna`  
-Kardinad on akna ees - Гардина - перед окном  
+V1 on **V2-l** (на поверхности)  
+Hele vaip on põranda**l**. (Светлый ковер - на полу)  
+Tass on laua**l**. (Чашка - на столе)  
+Pilt on seina**l**. (Картина на стене)  
 
-V1 on `V2-st слева/справа`  
-Tool on laua`st` vasakul - Стул - слева от стола
-
-V1 on `V2-l` (на поверхности)  
-Hele vaip on põranda`l`. (Светлый ковер - на полу)
-Tass on laua`l`. (Чашка - на столе)
-Pilt on seina`l`. (Картина на стене)
+V1 on **V2-st слева/справа**  
+Tool on laua**st** vasakul (Стул - слева от стола)
 
 ## Право / лево
 
-### Статика. Где? (`-l`)
+### Статика. Где? (**-l**)
 
 Окончание **-l** говорит о том, что предмет уже там **находится**.  
 - **Auto on paremal.** (Машина - справа).      
 - **Vasakul on aken.** (Справа — окно).     
 
 Особый случай, когда задействованы два предмета:  
-- Laua`st` vasakul on tool. (Слева от стола - стул)  
-- Tool on laua`st` paremal - Стул - справа от стола  
+- Laua**st** vasakul on tool. (Слева от стола - стул)  
+- Tool on laua**st** paremal - Стул - справа от стола  
 
-### Движение. Куда? (`-le`)
+### Движение. Куда? (**-le**)
 
 Окончание **-le** говорит о **направлении** движения.  
 - **Pööra paremale!** (Поверни направо!).      
 - **Vaata paremale!** (Посмотри направо!).      
 - Mine vasakule. (Иди налево)  
 
-### Движение. Откуда? (`-lt`)
+### Движение. Откуда? (**-lt**)
 
 Окончание **-lt** показывает направление или точку отсчета.   
 - **Tema aken on vasakult teine.** — Его окно второе слева (если считать **от** левого края).   
