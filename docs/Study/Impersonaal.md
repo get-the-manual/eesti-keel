@@ -79,15 +79,19 @@ ei + основа глагола + -ta
 | jooma     | пить              | juuakse             | ei jooda            |
 | käima     | ходить, бывать    | käiakse             | ei käida            |
 | kirjutama | писать            | kirjutatakse        | ei kirjutata        |
+| kulutama  | слушать           | kulutatakse         | ei kulutata         |
 | küsima    | спрашивать        | küsitakse           | ei küsita           |
-| laulma    | петь              | lauldakse           |  ei laulda          |
+| laulma    | петь              | lauldakse           | ei laulda           |
 | lugema    | читать            | loetakse            | ei loeta            |
 | minema    | идти              | minnakse            | ei minda            |
 | olema     | быть              | ollakse             | ei olda             |
+| otsima    | покупать          | otsitakse           | ei otsita           |
+| raiskama  | тратить           | raisatakse          | ei raisata          |
 | rääkima   | говорить          | räägitakse          | ei räägita          |
 | saama     | получать, мочь    | saadakse            | ei saada            |
 | sööma     | есть              | süüakse             | ei sööda            |
 | sõitma    | ехать             | sõidetakse          | ei sõideta          |
+| tarbima   | потреблять        | tarbitakse          | ei tarbida          |
 | tegema    | делать            | tehakse             | ei tehta            |
 | tulema    | приходить         | tullakse            | ei tulda            |
 | töötama   | работать          | töötatakse          | ei töötata          |
@@ -105,6 +109,9 @@ ei + основа глагола + -ta
 В Эстонии любят черный хлеб.	Eestis armastatakse musta leiba.  
 Зимой остаются часто дома.	Talvel jäädakse sageli koju.  
 Зарплату получают в конце месяца.	Palk saadakse kuu lõpus.  
+Больные бывают часто уставшими.	Haigena ollakse tihti väsinud.  
+В мире тратят (впустую) много денег.	Maailmas raisatakse palju raha.
+
 
 ## Прошедшее время (minevik)
 
