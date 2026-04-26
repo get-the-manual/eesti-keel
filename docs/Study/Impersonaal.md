@@ -96,6 +96,16 @@ ei + основа глагола + -ta
 | vaatama   | смотреть          | vaadatakse          | ei vaadata          |
 
 
+### Примеры
+
+Обычно дарят цветы или сладости	Tavaliselt kingitakse lilli või maiustusi  
+В Италии делают в мире лучшую пасту	Itaalias tehakse maailma parimat pastat.  
+Здесь не курят	Siin ei suitsetata  
+В этом магазине продаются хорошие вещи	Selles poes müüakse häid asju.  
+В Эстонии любят черный хлеб.	Eestis armastatakse musta leiba.  
+Зимой остаются часто дома.	Talvel jäädakse sageli koju.  
+Зарплату получают в конце месяца.	Palk saadakse kuu lõpus.  
+
 ## Прошедшее время (minevik)
 
 ### Положительная форма
