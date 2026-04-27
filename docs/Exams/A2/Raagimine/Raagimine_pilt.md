@@ -132,7 +132,8 @@ Arvatavasti on õhtu.
 ---
 
 ![](p1_10.jpg)   
-1. Tutvumine ja isikuandmed  
+
+**Tutvumine ja isikuandmed**  
 1A. Noor mees täidab raamatukogus registreerimislehte. Laual on ID-kaart ja pastakas. Töötaja istub leti taga.  
 1B. Kaks naist kohtuvad kohvikus esimest korda. Nad tutvustavad ennast ja vahetavad telefoninumbreid.  
 2A. Pere istub elutoas: ema, isa, kaks last ja vanaema. Seinal on perefotod.  
@@ -140,7 +141,7 @@ Arvatavasti on õhtu.
 3A. Klassiruumis tutvustab uus õpilane ennast: ütleb oma nime, vanuse ja elukoha.  
 3B. Töötukassas täidab mees ankeeti: nimi, sünniaeg, rahvus, aadress.  
 
-2. Kodu ja elukoht  
+**Kodu ja elukoht**  
 4A. Naine koristab kööki: peseb nõusid, laud on puhas.  
 4B. Mees tolmuimeb elutuba, diivan ja televiisor on näha.  
 5A. Pere elab korteris linnas. Aknast on näha kõrghooned ja bussipeatus.  
@@ -148,7 +149,7 @@ Arvatavasti on õhtu.
 6A. Noormees kirjeldab oma tuba: voodi, kirjutuslaud, arvuti ja raamaturiiul.  
 6B. Naine näitab sõbrale uut korterit: vannituba, köök ja rõdu.  
 
-3. Haridus ja töö  
+**Haridus ja töö**  
 7A. Õpilane istub klassis ja kirjutab vihikusse. Laual on õpik ja pliiats.  
 7B. Õpilased teevad rühmatööd, laual on koolitarbed ja tahvlil matemaatikaülesanne.  
 8A. Mees tööintervjuul: istub laua taga, tööandja esitab küsimusi.  
@@ -156,7 +157,7 @@ Arvatavasti on õhtu.
 9A. Arst töötab haiglas, kuulab patsiendi südant.  
 9B. Kokk valmistab restoranis toitu.  
 
-4. Vaba aeg ja meelelahutus  
+**Vaba aeg ja meelelahutus**  
 10A. Pere jalutab pargis, lapsed sõidavad rattaga.  
 10B. Noored mängivad kodus lauamängu.  
 
@@ -164,13 +165,13 @@ Arvatavasti on õhtu.
 
 ![](p1_11.jpg)   
 
-4. Vaba aeg ja meelelahutus  
+**Vaba aeg ja meelelahutus**  
 11A. Sõbrad on kinos ja ostavad pileteid.  
 11B. Inimesed vaatavad jalgpallimängu staadionil.  
 12A. Naine saadab sõbrale sõnumi: kutsub sünnipäevale.  
 12B. Mees räägib telefonis ja ütleb, et ei saa peole tulla. 
  
-5. Söök ja jook  
+**Söök ja jook**  
 13A. Pere sööb hommikusööki: leib, juust, tee ja kohv.  
 13B. Restoranis tellib paar kelnerilt toitu.  
 14A. Naine ostab supermarketis puu- ja köögivilju.  
@@ -178,7 +179,7 @@ Arvatavasti on õhtu.
 15A. Noor naine teeb kodus salatit.  
 15B. Mees sööb kiirtoitu ja joob limonaadi.  
 
-6. Tervis ja heaolu  
+**Tervis ja heaolu**  
 16A. Mees istub arsti kabinetis ja räägib, et tal on peavalu.  
 16B. Naine ostab apteegis ravimeid.  
 17A. Inimene jookseb hommikul pargis.  
@@ -186,7 +187,7 @@ Arvatavasti on õhtu.
 18A. Laps on haige ja lamab voodis, ema toob teed.  
 18B. Mees mõõdab kodus palavikku termomeetriga.  
 
-7. Transport ja reisimine  
+**Transport ja reisimine**  
 19A. Inimesed ootavad bussipeatuses bussi.  
 19B. Naine ostab rongijaamas piletit automaadist.  
 20A. Pere pakib kohvreid enne reisi.  
@@ -196,11 +197,11 @@ Arvatavasti on õhtu.
 
 ![](p1_09.jpg)  
 
-7. Transport ja reisimine  
+**Transport ja reisimine**  
 21A. Mees sõidab jalgrattaga tööle.  
 21B. Naine sõidab autoga ja seisab ummikus.  
 
-8. Sisseostud  
+**Sisseostud**  
 22A. Naine proovib riideid riidepoes.  
 22B. Mees küsib müüjalt allahindluse kohta.  
 23A. Klient tagastab katkise toote poodi.  
@@ -208,7 +209,7 @@ Arvatavasti on õhtu.
 24A. Turg: inimene ostab värskeid köögivilju.  
 24B. Kaubanduskeskus jõulude ajal, palju inimesi ja soodustused.  
 
-9. Keskkond ja ilm  
+**Keskkond ja ilm**  
 25A. Talv: lapsed teevad lumememme.  
 25B. Suvi: inimesed ujuvad järves.  
 26A. Sügis: tuul puhub ja lehed langevad.  
@@ -216,7 +217,7 @@ Arvatavasti on õhtu.
 27A. Mees sorteerib prügi.  
 27B. Pere istutab puid pargis.  
 
-10. Suhted ühiskonnas  
+**Suhted ühiskonnas**  
 28A. Inimene saadab ametliku e-kirja.  
 28B. Naine räägib ametnikuga teenindusbüroos.  
 29A. Naaber aitab vanemat naist kottidega.  
