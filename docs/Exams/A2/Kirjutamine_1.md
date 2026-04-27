@@ -64,3 +64,47 @@ Kohvik “Magus paus” on mõnus koht, kus saab juua kohvi ja süüa maitsvaid 
 See asub Tallinnas, aadressil Roosi mnt 45.  
 Kohvik on avatud esmaspäevast reedeni kell 08:00–20:00 ning nädalavahetusel kell 10:00–18:00.  
 Kui teil on küsimusi või soovite lauda broneerida, võite helistada numbril 12344321 või saata e-kirja aadressile info@maguspaus.ee
+
+## Пример 7
+
+![](Kir_1_7.jpg) 
+
+Visiitkaart (inimene) . 
+Maria Kask on raamatukoguhoidja.  
+Ta töötab Vana Linnaraamatukogus Tartus.  
+Raamatukogu asub Raekoja plats 5.  
+Ta töötab esmaspäevast reedeni kell 10-18.  
+Temaga saab ühendust telefoni ja e-posti teel.
+
+
+## Пример 8
+
+![](Kir_1_8.jpg) 
+
+Keelekursus.  
+See on eesti keele kursus algtasemele.  
+Kursus toimub Keelekoolis Tere Tallinnas.  
+Kursus algab 5. märtsil ja tunnid on teisipäeval ja neljapäeval õhtul.  
+Kursusele saab registreerida telefoni ja e-posti teel.  
+
+
+## Пример 9
+
+![](Kir_1_9.jpg) 
+
+Korter.  
+Üürile antakse korter Tallinnas Mustamäe teel. 
+Korteris on kaks tuba, köök ja vannituba.  
+Korteril on rõdu ja parkimiskoht.  
+Üür on 450 eurot kuus.  
+Omanikuga saab ühendust telefoni ja e-posti teel.
+
+## Пример 10
+
+![](Kir_1_10.jpg) 
+
+Koristusteenus.  
+See ettevõte pakub kodukoristust ja akende pesu.  
+Nad töötavad Tartus.  
+Ettevõte töötab esmaspäevast reedeni kell 9-17.  
+Nendega saab ühendust telefoni ja e-posti teel.  
