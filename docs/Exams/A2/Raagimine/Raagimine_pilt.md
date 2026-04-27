@@ -123,14 +123,6 @@ Arvatavasti on õhtu.
 [Источник](https://www.facebook.com/share/p/1As6fcxTGt/)
 
 
-![](p1_07.jpg)  
-
----
-
-![](p1_08.jpg)  
-
----
-
 ![](p1_10.jpg)   
 
 **Tutvumine ja isikuandmed**  
@@ -224,3 +216,11 @@ Arvatavasti on õhtu.
 29B. Kaks inimest vabandavad teineteise ees pärast väikest konflikti.  
 30A. Mees loeb teadet trepikojas (näiteks veekatkestus).  
 30B. Naine kirjutab sõbrale lühikese sõnumi telefonis.
+
+---
+
+![](p1_07.jpg)  
+
+---
+
+![](p1_08.jpg)  
