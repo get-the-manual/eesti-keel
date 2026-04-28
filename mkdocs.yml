@@ -49,6 +49,7 @@ extra:
 nav:
   - Главная страница: index.md
   - Обучение:
+    - ainult и alles: Study/Ainult-alles.md
     - Kuhu? Kus? Kust?: Study/KuhuKusKust.md
     - -ma, -mas, -ta/-da: Study/-ma-mas-da-ta.md
     - Безличные глаголы: Study/Impersonaal.md
