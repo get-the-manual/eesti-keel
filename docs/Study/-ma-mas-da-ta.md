@@ -8,6 +8,7 @@
 asun - приступить к (начать)  
 hakkan - начать  
 jooksma - бежать  
+kutsuma - приглашать  
 lähen - ходить  
 olen harjunud - привык  
 olen nõus - согласен  
