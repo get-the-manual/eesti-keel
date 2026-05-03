@@ -6,14 +6,16 @@ Näidiskirjeldus (Описание картинки)
 
 ## Полезные слова и фразы
 
-Sissejuhatus
+**Sissejuhatus**  
 Pildil on mees. — На картинке мужчина.  
 Pildil on naine. — На картинке женщина.  
 Pildil on kaks inimest. — На картинке два человека.  
 Pildil on pere. На картинке семья.  
 Pildil on laps. — На картинке ребёнок.  
+Pildil on kaks naist. - На картинке - две женщины  
 
-Koht  
+
+**Koht**  
 Nad on kodus. — Они дома.  
 Nad on toas. — Они в комнате.  
 Nad on köögis. — Они на кухне.  
@@ -23,9 +25,11 @@ Nad on poes. Они в магазине.
 Nad on tänaval. — Они на улице.  
 Nad on koolis. — Они в школе.  
 Nad on kontoris. — Они в офисе.  
-Nad on rannas. Они на пляже.  
+Nad on rannas. - Они на пляже. 
+Nad istuvad õues laua taga. - Они сидят снаружи (под открытым небом) за столом
+ 
 
-Tegevus  
+**Tegevus**  
 Nad istuvad laua taga. — Они сидят за столом.  
 Nad seisavad. — Они стоят.  
 Nad kõnnivad. - Они идут.  
@@ -36,32 +40,44 @@ Ta vaatab telefoni. — Он/она смотрит в телефон.
 Ta joob kohvi. - Он/она пьёт кофе.  
 Ta sööb. - Он/она ест.  
 Ta töötab arvutiga. — Он/она работает за компьютером.  
+Nad vestlevad omavahel. - Они общаются между собой  
+Naised istuvad laua taga ja räägivad. - Женщины сидят да столом и разговаривают  
 
-Riided   
+
+**Riided**   
 Tal on seljas sinine särk. - На нём/ней синяя рубашка.   
 Tal on seljas jakk. — На нём/ней куртка.  
 Tal on seljas mantel. На нём/ней пальто.  
 Tal on seljas kleit. — На ней платье.  
 Tal on seljas teksad. - На нём/ней джинсы.  
-Tema käes on on lilled. - У неё в руках цветы.
+Ema on heledas kampsunis. - Мама в светлой кофте  
+Isa kannab ruudulist särki. - Отец носит клетчатую рубашку  
+Tüdrukul on pruun kleit. - На девочке - коричневое платье  
+Naistel on seljas kerge riietus. - На женщинах - легкая одежда  
+Ühel (teisel) mehel on seljas roheline jakk. - На одном (втором) мужчине зеленая куртка  
 
-Asjad  
+
+
+**Asjad**  
 Laual on tass.- На столе чашка.  
 Laual on telefon. На столе телефон.  
 Laual on raamat. На столе книга.  
 Tal on käes kott. — У него/неё в руке сумка.  
 Tal on käes telefon. — У него/неё в руке телефон.  
+Tema käes on on lilled. - У неё в руках цветы.  
+Laual on pastakas. - На столе - ручка  
+Ta hoiab käekotti käes. - Она держит сумочку в руке
 
-Emotsioon  
+**Emotsioon**  
 Ta tundub rahulikkuna. — Он/она кажется спокойным(-ой).  
 Ta tundub rõõmsana. — Он/она кажется радостным(-ой).  
 Ta tundub keskendununa. — Он/она кажется сосредоточенным(-ой).  
 Ta naeratab. - Он улыбается.  
 
-Õpilase mõte  
+**Õpilase mõte**  
 Ma arvan, et (ta õpib / ta räägib sõbraga / ta töötab).
 
-Aeg või olukord  
+**Aeg või olukord**  
 Arvatavasti on (päev / õhtu / nädalavahetus).  
 
 
