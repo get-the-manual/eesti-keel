@@ -123,7 +123,7 @@ Ma ei ole kunagi töötanud suures firmas.
 | jooksma / jooksta | бегать                       | jooksin                  | jooksis    | jooksid     | jooksnud            |
 | jooma / juua      | пить                         | jõin                     | jõi        | jõid        | joonud              |
 | käima / käia      | посещать                     | käisin                   | käis       | käisid      | käinud              |
-| kandma            | носить / надевать переводить | kandsin                  |            |             | kandnud             |
+| kandma            | носить / надевать переводить | kandsin                  | kandis     | kandsid     | kandnud             |
 | laskma / lasta    | пускать                      | lasin                    | lasi       | lasid       | lasknud             |
 | leidma / leida    | найти                        | leidsin                  | leidis     | leidsid     | leidnud             |
 | looma / luua      | создавать                    | lõin                     | lõi        | lõid        | loonud              |
