@@ -1,4 +1,4 @@
-# Rääkimine 1. 
+﻿# Rääkimine 1. 
 
 Näidiskirjeldus (Описание картинки)
 
@@ -25,7 +25,7 @@ Nad on poes. Они в магазине.
 Nad on tänaval. — Они на улице.  
 Nad on koolis. — Они в школе.  
 Nad on kontoris. — Они в офисе.  
-Nad on rannas. - Они на пляже. 
+Nad on rannas. - Они на пляже.  
 Nad istuvad õues laua taga. - Они сидят снаружи (под открытым небом) за столом
  
 
@@ -94,7 +94,7 @@ Nad jooksevad murul ja nendega koos on suur koer, kes tundub väga õnnelik.
 Isa kannab ruudulist särki, punast T-särki, teksapükse ja mugavaid jalanõusid.   
 Ema on heledas kampsunis, sinistes teksades ja valgetes tossudes.  
 Poiss kannab rohelist jopet ja teksaseid ning tüdrukul on pruun kleit ja mustad kingad.  
-Nad kõik naeratavad ja tunduvad rõõmsad. 
+Nad kõik naeratavad ja tunduvad rõõmsad.  
 Tõenäoliselt pildil on sügis, sest puudel on kollased lehed ja ilm on päikesepaisteline.  
 See pere naudib ühist aega ja veedab lõbusalt päeva värskes õhus.
 
@@ -125,13 +125,13 @@ Pildil on kaks naist. Nad on kohvikus. Naised istuvad laua taga ja räägivad. N
 ## Пример 5
 
 ![](p1_05.jpg)  
-Pildil on mees. Ta on trepikojas. Mees seisab seina juures. Ta loeb paberit seinal. Ühes käes on tal kohvitops. Tal on seljas roheline jakk ja sinine särk. Seinal on mitu paberit.
+Pildil on mees. Ta on trepikojas. Mees seisab seina juures. Ta loeb paberit seinal. Ühes käes on tal kohvitops. Tal on seljas roheline jakk ja sinine särk. Seinal on mitu paberit.  
 Trepp on mehe taga.
 
 ## Пример 6
 
 ![](p1_06.jpg)  
-Pildil on noor naine. Ta on kodus diivanil. Tal on seljas roosa särk. Tema käes on telefon. Ta kirjutab sõnumit. Ta naeratab ja tundub rõõmus. Ma arvan, et ta kirjutab sõbrale.
+Pildil on noor naine. Ta on kodus diivanil. Tal on seljas roosa särk. Tema käes on telefon. Ta kirjutab sõnumit. Ta naeratab ja tundub rõõmus. Ma arvan, et ta kirjutab sõbrale.  
 Arvatavasti on õhtu.
 
 ## Примеры картинок
@@ -178,7 +178,7 @@ Arvatavasti on õhtu.
 11B. Inimesed vaatavad jalgpallimängu staadionil.  
 12A. Naine saadab sõbrale sõnumi: kutsub sünnipäevale.  
 12B. Mees räägib telefonis ja ütleb, et ei saa peole tulla. 
- 
+  
 **Söök ja jook**  
 13A. Pere sööb hommikusööki: leib, juust, tee ja kohv.  
 13B. Restoranis tellib paar kelnerilt toitu.  

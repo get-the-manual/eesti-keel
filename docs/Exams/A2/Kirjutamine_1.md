@@ -1,4 +1,4 @@
-# Kirjutamine. Esimene Ülesanne
+﻿# Kirjutamine. Esimene Ülesanne
 
 **Описание визитки**
 
@@ -69,7 +69,7 @@ Kui teil on küsimusi või soovite lauda broneerida, võite helistada numbril 12
 
 ![](Kir_1_7.jpg) 
 
-Visiitkaart (inimene) . 
+Visiitkaart (inimene) .  
 Maria Kask on raamatukoguhoidja.  
 Ta töötab Vana Linnaraamatukogus Tartus.  
 Raamatukogu asub Raekoja plats 5.  
@@ -93,7 +93,7 @@ Kursusele saab registreerida telefoni ja e-posti teel.
 ![](Kir_1_9.jpg) 
 
 Korter.  
-Üürile antakse korter Tallinnas Mustamäe teel. 
+Üürile antakse korter Tallinnas Mustamäe teel.  
 Korteris on kaks tuba, köök ja vannituba.  
 Korteril on rõdu ja parkimiskoht.  
 Üür on 450 eurot kuus.  

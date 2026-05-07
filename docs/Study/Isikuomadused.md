@@ -1,4 +1,4 @@
-# Isikuomadused - Личные качества
+﻿# Isikuomadused - Личные качества
 
 ## Список с антонимами (Vastandsõnad)
 
@@ -19,13 +19,13 @@ iseseisev / abitu - самостоятельный / беспомощный
 hoolikas / hooletu - старательный, аккуратный / небрежный  
 
 ## Отрицание
-В эстонском языке отрицание часто строится по принципу:
+В эстонском языке отрицание часто строится по принципу:  
 1. **Eba-** (как «не-»): _aus_ (честный) → _ebaaus_ (нечестный).    
 2. **-tu** (суффикс отсутствия): _vastutus_ (ответственность) → _vastutustundetu_ (безответственный).
 
 ## Должен / не должен
-`Peab olema` = positiivne (+)
+`Peab olema` = positiivne (+)  
 Treener peab olema aktiivne ja tugev.
 
-`Ei tohi olla` = negatiivne (-)
+`Ei tohi olla` = negatiivne (-)  
 Treener ei tohi olla passiivne ja nõrk.

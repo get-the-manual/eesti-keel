@@ -1,4 +1,4 @@
-# Семья `pere`
+﻿# Семья `pere`
 
 pere, perekond - семья
 
@@ -74,7 +74,7 @@ mehevend - мужа брат
 Анна - твоя старшая сестра?	Kas Anna on sinu vanem õde?   
 
 У Сигне и Рейна двое детей	Signel ja Reinul on kaks last 
- 
+  
 А.Она - Антса сына дочь. - A. Ta on Antsu pojatütar.   
 В. Она - Марта?	 - B. Kas ta on Marta?   
 
