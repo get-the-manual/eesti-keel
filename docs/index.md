@@ -21,3 +21,5 @@
 
 [Произношение эстонских гласных - YouTube](https://www.youtube.com/playlist?list=PLGXy0egmRXj7Y1a-uDIDvy02xyj136-DF)
 
+[Pille ja Lauri lood](https://web.meis.ee/vaegkuuljad/index.html)
+
