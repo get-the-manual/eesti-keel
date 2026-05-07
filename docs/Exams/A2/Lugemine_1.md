@@ -1,4 +1,4 @@
-# Lugemine. Esimene Ülesanne
+﻿# Lugemine. Esimene Ülesanne
 
 Это - задание с выбором ответа
 
@@ -552,8 +552,8 @@ C. Mitu
 
 1 A  
 2 B  
-3 A
-4 C
+3 A  
+4 C  
 5 C  
 6 C  
 7 B  

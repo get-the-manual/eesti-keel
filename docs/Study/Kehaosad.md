@@ -1,4 +1,4 @@
-# Части тела, болезни (Kehaosad ja haigused)
+﻿# Части тела, болезни (Kehaosad ja haigused)
 
 ## Части лица и тела
 
@@ -21,7 +21,7 @@ põsk / põsed - щека / щеки
 ripse / ripsmed - ресница(ы)  
 mokk / mokad - губа / губы  
 laup - лоб  
-huul / huuled - губа / губы 
+huul / huuled - губа / губы  
 habe - борода  
 vuntsid - усы  
 sünnimärk - родимое пятно  
@@ -30,12 +30,12 @@ tätoveering - татуировка
 
 ![](Kehaosad2.png)  
 
-1. pea - голова
+1. pea - голова  
 2. kõrv / kõrvad - ухо / уши  
 3. rind - грудь  
 4. küünarnukk(id) - локоть / локти  
 5. kõht - живот  
-6. sõrm(ed) - палец / пальцы на руке
+6. sõrm(ed) - палец / пальцы на руке  
 7. jalg / jalad - нога / ноги  
 8. varvas / varbad - палец / пальцы на ноге  
 9. põlv(ed) - колено / колени  
