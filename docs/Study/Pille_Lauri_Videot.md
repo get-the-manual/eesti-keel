@@ -2,9 +2,7 @@
 
 [Список видео](https://web.meis.ee/vaegkuuljad/videod.html)
 
-## 1. Pille ja Lauri esimene kohtumine
-
-https://www.youtube.com/watch?v=tSYXrzFfbUQ
+## 1. [Pille ja Lauri esimene kohtumine](https://www.youtube.com/watch?v=tSYXrzFfbUQ)
 
 * Halloo!  
 * Tere, kas ma räägin Pillega?  
@@ -19,8 +17,7 @@ https://www.youtube.com/watch?v=tSYXrzFfbUQ
 * Muidugi. Kohtumiseni!  
 * Kohtumiseni! Aitäh!
 
-## 2. Pille ja Lauri kohvikus
-https://www.youtube.com/watch?v=r0-N0yUE7lM
+## 2. [Pille ja Lauri kohvikus](https://www.youtube.com/watch?v=r0-N0yUE7lM)
 
 Transcript:
 
@@ -64,9 +61,7 @@ Küll me teie jaoks ka midagi leiame.
 | **Küll me teie jaoks ka midagi leiame.** | **Конечно, мы и для вас что-нибудь найдем.** |
 
 
-## 3. Pille ja Lauri lähevad kinno
-
-https://www.youtube.com/watch?v=Db3Ty4uH0fg
+## 3. [Pille ja Lauri lähevad kinno](https://www.youtube.com/watch?v=Db3Ty4uH0fg)
 
 Transcript:
 
@@ -104,9 +99,7 @@ Tervist.
 | Sa kuuled halvasti? | Ты плохо слышишь? |
 | Ma kasutan kuuldeaparaati. Mu isa on kurt, mina olen vaegkuulja. | Я пользуюсь слуховым аппаратом. Мой отец глухой, а я слабослышащая. |
 
-## 4. Pille küsib teed
-
-https://www.youtube.com/watch?v=6klU068Tp4I
+## 4. [Pille küsib teed](https://www.youtube.com/watch?v=6klU068Tp4I)
 
 Transcript:
 
@@ -123,10 +116,7 @@ Transcript:
 - Suur tänu abi eest. Loodan, et ma ära ei eksi.  
 - Ei eksi!
 
-## 5. Lauri arsti juures
-
-Arst - YouTube  
-https://www.youtube.com/watch?v=FfI1H9dI4ZI
+## 5. [Lauri arsti juures](https://www.youtube.com/watch?v=FfI1H9dI4ZI)
 
 Transcript:
 
@@ -142,10 +132,7 @@ Transcript:
 * Te minestasite. Noortel meestel ikka juhtub.
 
 
-## 6. Pille kuulmiskeskuses
-
-Kuuldeaparaat - YouTube  
-https://www.youtube.com/watch?v=A7rI7Tgk8Bs
+## 6. [Pille kuulmiskeskuses](https://www.youtube.com/watch?v=A7rI7Tgk8Bs)
 
 Transcript:
 
@@ -158,10 +145,7 @@ Transcript:
 * Mul on praegu ainult üks. Teine on väga ebamugav, sahiseb ja vilistab kogu aeg.  
 * Siis on vaja uued otsakud teha. Mina soovitan kanda kahte aparaati, siis kuuled paremini. Kõigepealt teeme kuulmisuuringu, siis võtame otsakute jäljendid. Pärast sobitame aparaate.
 
-## 7. Lauri kuulab muusikat
-
-Muusika - YouTube  
-https://www.youtube.com/watch?v=NdQqd2e3pRI
+## 7. [Lauri kuulab muusikat](https://www.youtube.com/watch?v=NdQqd2e3pRI)
 
 Transcript:
 
@@ -173,10 +157,7 @@ Transcript:
 * Ei juhtu minuga midagi. Ma olen kogu aeg niimoodi muusikat kuulanud.  
 * Loe ise. Alguses sa ei märka, aga aja jooksul jääb kuulmine nõrgemaks.
 
-## 8. Pille ja Lauri juuksuris
-
-Juuksur - YouTube  
-https://www.youtube.com/watch?v=5wCn2KfNHsc
+## 8. [Pille ja Lauri juuksuris](https://www.youtube.com/watch?v=5wCn2KfNHsc)
 
 * Palun. Ära lõika oma ilusaid lokke ära.  
 * Lõikan küll. Ma tahan lühikesi juukseid.  
@@ -196,10 +177,7 @@ https://www.youtube.com/watch?v=5wCn2KfNHsc
 * Vau!
 
 
-## 9. Pille ja Lauri riidepoes
-
-Riidepoes - YouTube  
-https://www.youtube.com/watch?v=BTkGHU5oxTY
+## 9. [Pille ja Lauri riidepoes](https://www.youtube.com/watch?v=BTkGHU5oxTY)
 
 * Mul on nii hea meel, et sa tulid. Vaata. Mulle meeldib see seelik.  
 * See on liiga roosa. Minu arvates sobivad sulle rohkem teksad.  
@@ -219,9 +197,7 @@ https://www.youtube.com/watch?v=BTkGHU5oxTY
 * Aitäh.  
 * Tubli poiss.
 
-## 10. Pille karjäärinõustaja juures
-
-https://www.youtube.com/watch?v=3521bH5wnys
+## 10. [Pille karjäärinõustaja juures](https://www.youtube.com/watch?v=3521bH5wnys)
 
 Tere. Mina olen karjäärinõustaja Teet Kask. Näen, et seisate olulise valiku ees. Kuidas saan teid aidata?  
 Tere, mina olen Pille. Mõtlen, mida õppima tulla. Mulle meeldib õmblemine.  
@@ -237,9 +213,7 @@ See on tegelikult väga hea. Lähme kabinetti, teeme kutsevaliku teste ja vaatam
 Aitäh.
 
 
-## 11. Pille ja Lauri kutsuvad abi
-
-https://www.youtube.com/watch?v=z46jLD-5Odo
+## 11. [Pille ja Lauri kutsuvad abi](https://www.youtube.com/watch?v=z46jLD-5Odo)
 
 * Vaata Lauri. Tal on midagi viga.  
 * Ei usu. Ta on lihtsalt purjus.  
@@ -255,9 +229,7 @@ https://www.youtube.com/watch?v=z46jLD-5Odo
 * Jääge palun ootama, kiirabi tuleb kohe. Kuidas on teie nimi ja telefoni number?  
 * Lauri Mägi, 5-7-5-7-6-3-1.
 
-## 12. Pille ja Lauri pakivad kohvrit
-
-https://www.youtube.com/watch?v=JutqcmVlViY
+## 12. [Pille ja Lauri pakivad kohvrit](https://www.youtube.com/watch?v=JutqcmVlViY)
 
  * Lauri, palun! Mida sa teed mu päevitusriietega?  
  * Panen kohvrisse. Viljandis läheme me ujuma.  
@@ -280,9 +252,7 @@ https://www.youtube.com/watch?v=JutqcmVlViY
  * Mida me seal teeme?  
  * Püüame kala ja sõidame mootorrattaga.
 
-## 13. Pille ja Lauri valivad korterit
-
-https://www.youtube.com/watch?v=P3m7W4Lj5Bw
+## 13. [Pille ja Lauri valivad korterit](https://www.youtube.com/watch?v=P3m7W4Lj5Bw)
 
 * Tere.  
 * Tere.  
@@ -310,9 +280,7 @@ https://www.youtube.com/watch?v=P3m7W4Lj5Bw
 * Miks?  
 * Lihtsalt, ei.
 
-## 14. Pille ja Lauri ehituspoes
-
-https://www.youtube.com/watch?v=7epIAUmQdUc
+## 14. [Pille ja Lauri ehituspoes](https://www.youtube.com/watch?v=7epIAUmQdUc)
 
 * Ma lähen ostan tapeediliimi. Sina vali niikaua tapeeti.  
 * Vabandage. Kus asuvad tapeedid?  
@@ -330,9 +298,7 @@ https://www.youtube.com/watch?v=7epIAUmQdUc
 * Suurepärane. Meil ongi laupäeval vaja. Suur tänu abi eest.
 
 
-## 15. Pille ja Lauri elektroonikapoes
-
-https://www.youtube.com/watch?v=DFbyFI0LX8g
+## 15. [Pille ja Lauri elektroonikapoes](https://www.youtube.com/watch?v=DFbyFI0LX8g)
 
 * Kuidas ma saan teid aidata?  
 * See ei tööta. Tuleb ümber vahetada.  
@@ -353,9 +319,7 @@ https://www.youtube.com/watch?v=DFbyFI0LX8g
 * Me helistame teile paari nädala pärast. Hoidke kviitung alles.
 
 
-## 16. Lauri töövestlusel
-
-https://www.youtube.com/watch?v=6etyaZYvhUQ
+## 16. [Lauri töövestlusel](https://www.youtube.com/watch?v=6etyaZYvhUQ)
 
 - Tere, mina olen Lauri.  
 - Loen siin sinu CV-d. Tundub, et ehitustöö huvitab sind.  
@@ -372,9 +336,7 @@ https://www.youtube.com/watch?v=6etyaZYvhUQ
 - Käin jõusaalis ja mängin korvpalli. Täna lähen Tartu meeskonna mängu ka vaatama.  
 - Ohoo! Nii et spordipoiss? Mul on ka sellele mängule pilet. Ega siis midagi, tere tulemast meie Tare-Tarekese meeskonda.
 
-## 17. Pille ja Lauri turul
-
-https://www.youtube.com/watch?v=xRRp5bYKfcE
+## 17. [Pille ja Lauri turul](https://www.youtube.com/watch?v=xRRp5bYKfcE)
 
 * Tere hommikust! Mida saan pakkuda?  
 * Palun kaks kilo kartuleid.  
@@ -396,9 +358,7 @@ https://www.youtube.com/watch?v=xRRp5bYKfcE
 * Tänan, Lauri. Väga maitsev.
 
 
-## 18. Pille ja Lauri ootavad külalisi
-
-https://www.youtube.com/watch?v=OdjIFkFGtfA
+## 18. [Pille ja Lauri ootavad külalisi](https://www.youtube.com/watch?v=OdjIFkFGtfA)
 
 * Lauri! Kata palun ise laud ära.  
 * Kus taldrikud on?  
@@ -414,9 +374,7 @@ https://www.youtube.com/watch?v=OdjIFkFGtfA
 * Vau! Sa näed väga hea välja.  
 * Kahvel vasakul, nuga paremal, kus külalised on?
 
-## 19. Pille ületab vales kohas teed
-
-https://www.youtube.com/watch?v=GsVJ41yvSCo
+## 19. [Pille ületab vales kohas teed](https://www.youtube.com/watch?v=GsVJ41yvSCo)
 
 * Politseinik Tarmo Tamm. Te rikkusite praegu just liiklusseadust. Kaks korda.  
 * Palun andeks. Ma jooksin vales kohas üle tee, aga mul on väga kiire.  
@@ -428,9 +386,7 @@ https://www.youtube.com/watch?v=GsVJ41yvSCo
 * Ausõna, see oli mul hommikul koti küljes. Ma ei tea, kuhu see kadus.  
 * Sellisel juhul kirjutage seletuskiri. Palun tulge minu autosse. Koostame protokolli. Pärast kingin teile uue helkuri.
 
-## 20. Pille ja Lauri trennis
-
-https://www.youtube.com/watch?v=xI0ET9IpOEI
+## 20. [Pille ja Lauri trennis](https://www.youtube.com/watch?v=xI0ET9IpOEI)
 
 * Noh, siin ma olen. Mis ma tegema pean?  
 * Alguses tee sooja.  
@@ -438,9 +394,7 @@ https://www.youtube.com/watch?v=xI0ET9IpOEI
 * Ma ütlesin, et jõusaal on igav. Ma lähen parem aeroobikatrenni.  
 * Mine jah, aeroobika on hea mõte.
 
-## 21. Jüri Jaansoni tervitus vaegkuuljatele
-
-https://www.youtube.com/watch?v=DX-dPSlPjBc
+## 21. [Jüri Jaansoni tervitus vaegkuuljatele](https://www.youtube.com/watch?v=DX-dPSlPjBc)
 
 Tere, minu nimi on Jüri Jaanson ja ma olen vaegkuulja.  
 Minu kuulmisjääk on kõnesagedustel 5 protsenti, aga see ei ole seganud mind elus hakkama saamast.  
