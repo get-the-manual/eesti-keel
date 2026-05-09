@@ -5,20 +5,24 @@
 `Mida tegema?`  
 Выражает общую необходимость или намерение, процесс, движение к цели или обязанность. Используется для вопросов о том, **что нужно начать, продолжить или решить делать**
 
-asun - приступить к (начать)  
-hakkan - начать  
-jooksma - бежать  
-kutsuma - приглашать  
-lähen - ходить  
-olen harjunud - привык  
-olen nõus - согласен  
-olen valmis - готов   
-paluma - просить  
-peab - должен  
-sõitma - ехать   
-tulema - приходить  
-õpetama - учить  
-õppima - учиться   
+asuma, asuda, asun - приступить к (начать)  
+hakkama, hakata, hakkan - начать  
+jooksma, joosta, jooksen - бежать  
+kutsuma, kutsuda, kutsun - приглашать  
+minema, minna, lähen - ходить  
+harjuma, harjuda, harjun - привыкать  
+nõustama, nõustada, nõustan - соглашаться   
+olema, olla, olen valmis - готов (делать что-то)  
+olema, olla, olen nõus - согласен  
+valmistuma, valmistuda, valmistun - готовиться  
+paluma, paluda, palun - просить  
+pidama, pidada, pean - должен  
+sõitma, sõita, sõidan - ехать  
+sundima, sundida, sunnin - заставлять  
+tulema, tulla, tulen - приходить  
+õpetama, õpetada, õpetan - учить  
+õppima, õppida, õpin - учиться  
+
 
 ## -mas
 
