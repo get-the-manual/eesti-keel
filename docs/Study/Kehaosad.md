@@ -19,9 +19,9 @@
 nägu - лицо  
 põsk / põsed - щека / щеки  
 ripse / ripsmed - ресница(ы)  
-mokk / mokad - губа / губы  
-laup - лоб  
 huul / huuled - губа / губы  
+mokk / mokad - губа / губы (разговорное, у животных)  
+laup - лоб  
 habe - борода  
 vuntsid - усы  
 sünnimärk - родимое пятно  
