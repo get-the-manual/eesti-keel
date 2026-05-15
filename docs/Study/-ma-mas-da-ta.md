@@ -11,7 +11,7 @@ jooksma, joosta, jooksen - бежать
 kutsuma, kutsuda, kutsun - приглашать  
 minema, minna, lähen - ходить  
 harjuma, harjuda, harjun - привыкать  
-nõustama, nõustada, nõustan - соглашаться   
+nõustama, nõustada, nõustun - соглашаться   
 olema, olla, olen valmis - готов (делать что-то)  
 olema, olla, olen nõus - согласен  
 valmistuma, valmistuda, valmistun - готовиться  
