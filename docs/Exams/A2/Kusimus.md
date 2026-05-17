@@ -166,11 +166,14 @@ Mis on sinu lemmikkoht linnas? - Какое твое любимое место �
 
 ## Test
 
-<button id="myButton" onclick="changeButtonText()">Нажми на меня</button>
+<!-- HTML разметка -->
+<button id="myButton" class="md-button md-button--primary">Нажми меня</button>
 
-    <script>
-        function changeButtonText() {
-            const button = document.getElementById('myButton');
-            button.textContent = 'Текст изменен!';
-        }
-    </script>
+<div id="output" style="margin-top: 10px; font-weight: bold;"></div>
+
+<!-- JavaScript функция -->
+<script>
+  document.getElementById('myButton').addEventListener('click', function() {
+    document.getElementById('output').innerText = 'Привет! JS работает прямо из Markdown!';
+  });
+</script>
