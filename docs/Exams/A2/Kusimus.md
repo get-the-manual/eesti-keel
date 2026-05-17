@@ -163,3 +163,14 @@ Kui kaua sa tööle sõidad? - Как долго ты едешь на работ
 Kas sulle meeldib Tallinnas elada? - Тебе нравится жить в Таллине?
 
 Mis on sinu lemmikkoht linnas? - Какое твое любимое место в городе?
+
+## Test
+
+<button id="myButton" onclick="changeButtonText()">Нажми на меня</button>
+
+    <script>
+        function changeButtonText() {
+            const button = document.getElementById('myButton');
+            button.textContent = 'Текст изменен!';
+        }
+    </script>
