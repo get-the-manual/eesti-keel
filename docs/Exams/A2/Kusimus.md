@@ -22,158 +22,144 @@
 ![](Kusimus_qr.jpg)
 
 ## Вопросы
-Mis sinu nimi on? - Как тебя зовут?
+1. Mis sinu nimi on? - Как тебя зовут?
 
-Mis sinu perekonnanimi on? - Как твоя фамилия?
+2. Mis sinu perekonnanimi on? - Как твоя фамилия?
 
-Kui vana sa oled? - Сколько тебе лет?
+3. Kui vana sa oled? - Сколько тебе лет?
 
-Kus sa sündisid? - Где ты родился?
+4. Kus sa sündisid? - Где ты родился?
 
-Millal sa sündisid? - Когда ты родился?
+5. Millal sa sündisid? - Когда ты родился?
 
-Mis aastal sa sündisid? - В каком году ты родился?
+6. Mis aastal sa sündisid? - В каком году ты родился?
 
-Mis kuupäeval sa sündisid? - В какой день месяца ты родился?
+7. Mis kuupäeval sa sündisid? - В какой день месяца ты родился?
 
-Kust sa pärit oled? - Откуда ты родом?
+8. Kust sa pärit oled? - Откуда ты родом?
 
-Kus sa elad? - Где ты живешь?
+9. Kus sa elad? - Где ты живешь?
 
-Kus sa varem elasid? - Где ты раньше жил?
+10. Kus sa varem elasid? - Где ты раньше жил?
 
-Kellena sa töötad? - Кем ты работаешь?
+11. Kellena sa töötad? - Кем ты работаешь?
 
-Kus sa töötad? - Где ты работаешь?
+12. Kus sa töötad? - Где ты работаешь?
 
-Millega sa tööle sõidad? - Чем ты добираешься на работу?
+13. Millega sa tööle sõidad? - Чем ты добираешься на работу?
 
-Millal sinu tööpäev algab ja lõpeb? - Когда начинается и заканчивается твой рабочий день?
+14. Millal sinu tööpäev algab ja lõpeb? - Когда начинается и заканчивается твой рабочий день?
 
-Millal sa hommikul ärkad? - Когда ты утром просыпаешься?
+15. Millal sa hommikul ärkad? - Когда ты утром просыпаешься?
 
-Mida sa hommikusöögiks sööd? - Что ты ешь на завтрак?
+16. Mida sa hommikusöögiks sööd? - Что ты ешь на завтрак?
 
-Mis on sinu lemmikhommikusöök? - Какая твоя любимая еда на завтрак?
+17. Mis on sinu lemmikhommikusöök? - Какая твоя любимая еда на завтрак?
 
-Mis on sinu lemmiktoit? - Какая твоя любимая еда?
+18. Mis on sinu lemmiktoit? - Какая твоя любимая еда?
 
-Kas sulle maitsev jäätis? - Тебе нравится мороженое?
+19. Kas sulle maitsev jäätis? - Тебе нравится мороженое?
 
-Mida sa tööpäeva õhtul teed? - Что ты делаешь в рабочий день вечером?
+20. Mida sa tööpäeva õhtul teed? - Что ты делаешь в рабочий день вечером?
 
-Mida sa nädalavahetusel teed? - Что ты делаешь на выходных?
+21. Mida sa nädalavahetusel teed? - Что ты делаешь на выходных?
 
-Mida sa talvel teed? - Что ты делаешь, когда зима?
+22. Mida sa talvel teed? - Что ты делаешь, когда зима?
 
-Kas sa oskad suusatada? - Ты умеешь кататься на лыжах?
+23. Kas sa oskad suusatada? - Ты умеешь кататься на лыжах?
 
-Kas sa teed sporti? - Ты занимаешься спортом?
+24. Kas sa teed sporti? - Ты занимаешься спортом?
 
-Kas sulle meeldib metsas jalutada? - Ты любишь гулять в лесу?
+25. Kas sulle meeldib metsas jalutada? - Ты любишь гулять в лесу?
 
-Kas sulle meeldib reisida? - Ты любишь путешествовать?
+26. Kas sulle meeldib reisida? - Ты любишь путешествовать?
 
-Kui tihti sa reisid? - Как часто ты путешествуешь?
+27. Kui tihti sa reisid? - Как часто ты путешествуешь?
 
-Kuhu sa viimati reisisid? - Куда ты путешествовал в последний раз?
+28. Kuhu sa viimati reisisid? - Куда ты путешествовал в последний раз?
 
-Millal sa viimati reisisid? - Когда ты путешествовал последний раз?
+29. Millal sa viimati reisisid? - Когда ты путешествовал последний раз?
 
-Mitmetoaline sinu korter on? - Сколько комнатная у тебя квартира?
+30. Mitmetoaline sinu korter on? - Сколько комнатная у тебя квартира?
 
-Mitmekorruseline sinu maja on? - Сколькиэтажный у тебя дом?
+31. Mitmekorruseline sinu maja on? - Сколькиэтажный у тебя дом?
 
-Mitmendal korrusel sa elad? - На каком этаже ты живешь?
+32. Mitmendal korrusel sa elad? - На каком этаже ты живешь?
 
-Kas sul on suur pere?  - У тебя большая семья?
+33. Kas sul on suur pere?  - У тебя большая семья?
 
-Kes sinu peres on? - Кто в твоей семье?
+34. Kes sinu peres on? - Кто в твоей семье?
 
-Kas sulle meeldib kinos käia? - Ты любишь ходить в кино?
+35. Kas sulle meeldib kinos käia? - Ты любишь ходить в кино?
 
-Kas sulle meeldib raamatuid lugeda? - Ты любишь читать книги?
+36. Kas sulle meeldib raamatuid lugeda? - Ты любишь читать книги?
 
-Kelleks sa õppisid? - На кого ты учился?
+37. Kelleks sa õppisid? - На кого ты учился?
 
-Kui tihti sa arsti juures käid? - Как часто ты ходишь к врачу?
+38. Kui tihti sa arsti juures käid? - Как часто ты ходишь к врачу?
 
-Kellele sa helistad, kui sa oled haige? - Кому ты звонишь, когда ты болен?
+39. Kellele sa helistad, kui sa oled haige? - Кому ты звонишь, когда ты болен?
 
-Mis on sinu lemmikaastaaeg? - Какое твое любимое время года?
+40. Mis on sinu lemmikaastaaeg? - Какое твое любимое время года?
 
-Kas sul on lemmikloom? - У тебя есть домашнее животное?
+41. Kas sul on lemmikloom? - У тебя есть домашнее животное?
 
-Mis sinu kassi nimi on? - Как зовут твою кошку?
+42. Mis sinu kassi nimi on? - Как зовут твою кошку?
 
-Kuhu sa tahad suvel sõita? - Куда ты хочешь летом поехать?
+43. Kuhu sa tahad suvel sõita? - Куда ты хочешь летом поехать?
 
-Kas sul on autojuhiluba? - У тебя есть водительские права?
+44. Kas sul on autojuhiluba? - У тебя есть водительские права?
 
-Kellega sa sünnipäeva tähistad? - С кем ты отмечаешь день рождения?
+45. Kellega sa sünnipäeva tähistad? - С кем ты отмечаешь день рождения?
 
-Mis on su lemmikpüha? - Какой твой любимый праздник?
+46. Mis on su lemmikpüha? - Какой твой любимый праздник?
 
-Kas sulle meeldib ujuda? - Тебе нравится плавать?
+47. Kas sulle meeldib ujuda? - Тебе нравится плавать?
 
-Kas sa puhkasid sel aastal? - Ты отдыхал в этом году?
+48. Kas sa puhkasid sellel aastal? - Ты отдыхал в этом году?
 
-Kuhu sa tahad järgmisel aastal sõita? - Куда ты хочешь поехать в следующем году?
+49. Kuhu sa tahad järgmisel aastal sõita? - Куда ты хочешь поехать в следующем году?
 
-Mis on sinu lemmikjook? - Какой твой любимый напиток?
+50. Mis on sinu lemmikjook? - Какой твой любимый напиток?
 
-Kui tihti sa turul käid? - Как часто ты ходишь на рынок?
+51. Kui tihti sa turul käid? - Как часто ты ходишь на рынок?
 
-Mida sa poest ostad? - Что ты покупаешь в магазине?
+52. Mida sa poest ostad? - Что ты покупаешь в магазине?
 
-Mis poest sa toitu ostad? - В каком магазине ты покупаешь еду?
+53. Mis poest sa toitu ostad? - В каком магазине ты покупаешь еду?
 
-Kas sul on vend või õde? - У тебя есть брат или сестра?
+54. Kas sul on vend või õde? - У тебя есть брат или сестра?
 
-Kas sulle meeldib seeni korjata? - Ты любишь собирать грибы?
+55. Kas sulle meeldib seeni korjata? - Ты любишь собирать грибы?
 
-Mis ilm praegu on? - Какая сейчас погода?
+56. Mis ilm praegu on? - Какая сейчас погода?
 
-Mis sinu hobi on? - Какое твое хобби?
+57. Mis sinu hobi on? - Какое твое хобби?
 
-Mis kell sa magama lähed? - Во сколько ты ложишься спать?
+58. Mis kell sa magama lähed? - Во сколько ты ложишься спать?
 
-Mida sa igal hommikul teed? - Что ты делаешь каждое утро?
+59. Mida sa igal hommikul teed? - Что ты делаешь каждое утро?
 
-Kas sulle meeldib süüa teha? - Ты любишь готовить?
+60. Kas sulle meeldib süüa teha? - Ты любишь готовить?
 
-Mida sa tavaliselt pühapäeval teed? - Что ты обычно делаешь в воскресенье?
+61. Mida sa tavaliselt pühapäeval teed? - Что ты обычно делаешь в воскресенье?
 
-Kas sul on kodus lilled? - У тебя дома есть цветы?
+62. Kas sul on kodus lilled? - У тебя дома есть цветы?
 
-Mis sinu maja lähedal on? - Что находится рядом с твоим домом?
+63. Mis sinu maja lähedal on? - Что находится рядом с твоим домом?
 
-Kas sa jood kohvi piimaga või ilma? - Ты пьешь кофе с молоком или без?
+64. Kas sa jood kohvi piimaga või ilma? - Ты пьешь кофе с молоком или без?
 
-Kus sa tavaliselt lõunat sööd? - Где ты обычно обедаешь?
+65. Kus sa tavaliselt lõunat sööd? - Где ты обычно обедаешь?
 
-Kas sul on jalgratas? - У тебя есть велосипед?
+66. Kas sul on jalgratas? - У тебя есть велосипед?
 
-Mis keeli sa räägid? - На каких языках ты говоришь?
+67. Mis keeli sa räägid? - На каких языках ты говоришь?
 
-Mis ilm sulle meeldib? - Какая погода тебе нравится?
+68. Mis ilm sulle meeldib? - Какая погода тебе нравится?
 
-Kui kaua sa tööle sõidad? - Как долго ты едешь на работу?
+69. Kui kaua sa tööle sõidad? - Как долго ты едешь на работу?
 
-Kas sulle meeldib Tallinnas elada? - Тебе нравится жить в Таллине?
+70. Kas sulle meeldib Tallinnas elada? - Тебе нравится жить в Таллине?
 
-Mis on sinu lemmikkoht linnas? - Какое твое любимое место в городе?
-
-## Test
-
-<!-- HTML разметка -->
-<button id="myButton" class="md-button md-button--primary">Нажми меня</button>
-
-<div id="output" style="margin-top: 10px; font-weight: bold;"></div>
-
-<!-- JavaScript функция -->
-<script>
-  document.getElementById('myButton').addEventListener('click', function() {
-    document.getElementById('output').innerText = 'Привет! JS работает прямо из Markdown!';
-  });
-</script>
+71. Mis on sinu lemmikkoht linnas? - Какое твое любимое место в городе?
