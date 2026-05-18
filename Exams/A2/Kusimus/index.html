@@ -1876,27 +1876,26 @@
 <h2 id="_3">Вопросы</h2>
 <!-- HTML разметка -->
 
-<pre><code>&lt;a id="resetLink" href="?reset"&gt;Сбросить генерацию&lt;/a&gt;
-&lt;a href="?generate"&gt;Сгенерировать новые списки&lt;/a&gt;
+<p><a id="resetLink" href="?reset">Сбросить генерацию</a>
+<a href="?generate">Сгенерировать новые списки</a></p>
+<div id="qrcode"></div>
 
-&lt;div id="qrcode"&gt;&lt;/div&gt;
+<h3 id="listFullHeader">Полный список</h3>
+<table id="listFull">
+</table>
 
-&lt;h3 id="listFullHeader"&gt;Полный список&lt;/h3&gt;
-&lt;table id="listFull"&gt;
-&lt;/table&gt;
+<h3 id="listAHeader">Первый список</h3>
+<table id="listA">
+</table>
 
-&lt;h3 id="listAHeader"&gt;Первый список&lt;/h3&gt;
-&lt;table id="listA"&gt;
-&lt;/table&gt;
+<h3 id="listBHeader">Второй список</h3>
+<table id="listB">
+</table>
 
-&lt;h3 id="listBHeader"&gt;Второй список&lt;/h3&gt;
-&lt;table id="listB"&gt;
-&lt;/table&gt;
-</code></pre>
 <!-- JavaScript функция -->
 
-<pre><code>&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script>
     const list = [
         "Mis sinu nimi on? - Как тебя зовут?",
         "Mis sinu perekonnanimi on? - Как твоя фамилия?",
@@ -1978,7 +1977,7 @@
         if(!pars) {
             const table = document.getElementById("listFull");
             var num = 1;
-            list.forEach((item, index) =&gt; {
+            list.forEach((item, index) => {
                 const row = table.insertRow();
                 const cell = row.insertCell();
                 cell.textContent = num + ". " + item;
@@ -1991,14 +1990,14 @@
             document.getElementById("listA").remove();
             document.getElementById("listB").remove();
         } else if (pars === "generate"){
-            indexes = list.map((_, index) =&gt; index).sort(() =&gt; Math.random() - 0.5);
-            pars = indexes.map(index =&gt; String(index).padStart(2, '0')).join('');
+            indexes = list.map((_, index) => index).sort(() => Math.random() - 0.5);
+            pars = indexes.map(index => String(index).padStart(2, '0')).join('');
             window.location.search = pars;
         } else if(pars === "reset") {
             window.location.search = "";
         } else {
             indexes = [];
-            for (let i = 0; i &lt; pars.length; i += 2) {
+            for (let i = 0; i < pars.length; i += 2) {
                 indexes.push(+pars.substring(i, i + 2));
             }
 
@@ -2010,7 +2009,7 @@
             const tableB = document.getElementById("listB");
 
             var num = 1;
-            listA.forEach(index =&gt; {
+            listA.forEach(index => {
                 const row = tableA.insertRow();
                 const cell = row.insertCell();
                 cell.textContent = num + ". " + list[index];
@@ -2018,7 +2017,7 @@
             });
 
             num = 1;
-            listB.forEach(index =&gt; {
+            listB.forEach(index => {
                 const row = tableB.insertRow();
                 const cell = row.insertCell();
                 cell.textContent = num + ". " + list[index];
@@ -2038,8 +2037,7 @@
             document.getElementById("listFull").remove();
         }
     });
-&lt;/script&gt;
-</code></pre>
+</script>
 
 
 
