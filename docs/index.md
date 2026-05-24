@@ -23,3 +23,6 @@
 
 [Pille ja Lauri lood](https://web.meis.ee/vaegkuuljad/index.html)
 
+Книга с материалам для экзамена А2-B1 [Valmistu eksamiks A2, B1. Elina Peial](https://rahvaraamat.ee/et/raamatud/keeleope-ja-sonastikud/eesti-keel/valmistu-eksamiks-a2-b1/2234530)
+
+![](BookValmistuEksamiksA2_B1.jpg) 
