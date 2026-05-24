@@ -106,7 +106,20 @@
 		"Mis keeli sa räägid? - На каких языках ты говоришь?",
 		"Mis ilm sulle meeldib? - Какая погода тебе нравится?",
 		"Kui kaua sa tööle sõidad? - Как долго ты едешь на работу?",
-		"Kas sulle meeldib Tallinnas elada? - Тебе нравится жить в Таллине?",
+		"Kas sulle meeldib Tallinnas elada? - Тебе нравится жить в Таллинне?",
+		"Mis on sinu lemmikmagustoit? - Какой твой любимый десерт?",
+        "Mis spordiga sa suvel/talvel tegeled? - Каким спортом ты занимаешься летом/зимой?",
+        "Kas teile meeldib sporti teha siseruumides või õues? - Вам нравится заниматься спортом в помещении или на улице?",
+        "Kui tihti sa sporti teed? - Как часто занимаешься спортом?",
+        "Mitu korda nädalas peab sporti tegema? - Сколько раз в неделю нужно заниматься спортом?",
+        "Kellele te lilli kingite? - Кому вы подарите цветы?",
+        "Kas kommid on hea kingitus? - Конфеты это хороший подарок?",
+        "Kelle sünnipäeval sa viimati käisid? - К кому ты в последний раз ходил на день рождения?",
+        "Mida sulle sünnipäevaks kingitakse? - Что тебе дарят на день рождения?",
+        "Kas sulle meeldivad käsitöötooted? - Нравятся ли тебе товары ручной работы?",
+        "Kas sa ostad turult riideid? - Покупаешь ли ты одежду на рынке?",
+        "Kellega sa turul käid? - С кем ты ходишь на рынок?",
+        "Mida te kingite sõbrale, abikaasale, kolleegile? - Что вы дарите другу, супругу, коллеге?",
 		"Mis on sinu lemmikkoht linnas? - Какое твое любимое место в городе?"
 	];
 
