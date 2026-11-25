@@ -2,7 +2,11 @@
 
 После регистрации на экзамен может прийти письмо с предложением принять участие в онлайн консультации.
 
-Вот перевод текста письма
+Онлайн-консультацию можно выбрать при регистрации на экзамен. Её содержание и материалы те же, что и у консультации на месте. Актуальные даты консультаций публикуются на странице [Eesti keele tasemeeksamid](https://harno.ee/eesti-keele-tasemeeksamid).
+
+Ниже приведён перевод такого письма за II квартал 2026 года. Даты в нём уже прошли, а ссылки на встречи в Teams больше не действуют. Письмо оставлено как пример.
+
+---
 
 Привет!
 
@@ -10,23 +14,23 @@
 Консультации через Интернет являются добровольными, но при желании вы также можете принять участие в регулярных консультациях, которые состоятся позже.  
 Материалы одинаковы как для обычной консультации, так и для онлайн-консультации.
 
-Пожалуйста, зарегистрируйтесь для онлайн-консультации в ОДНУ из выбранных вами дат.
+Пожалуйста, зарегистрируйтесь на онлайн-консультацию на ОДНУ из выбранных вами дат.
 
 1. Дата: 20 апреля 2026 г., 17:00.  
-Место проведения: онлайн-среда Microsoft Teams. [Ссылка для присоединения]( https://events.teams.microsoft.com/event/f80f3d17-1a81-4c39-879b-b03302d2efb4@8fe098d2-428d-4bd4-9803-7195fe96f0e2)
+Место проведения: онлайн-среда Microsoft Teams (ссылка из письма уже недействительна).
 
 2. Дата: 21 апреля 2026 г., 17:00.  
-Место проведения: онлайн-среда Microsoft Teams [Ссылка для присоединения]( https://events.teams.microsoft.com/event/14ac7228-113b-4bea-8f9d-cf2eedb487e0@8fe098d2-428d-4bd4-9803-7195fe96f0e2)
+Место проведения: онлайн-среда Microsoft Teams (ссылка из письма уже недействительна).
 
-📄 Перед консультацией, пожалуйста, скачайте на свой компьютер консультационный буклет для заполнения, который можно найти [на сайте Harno]( https://harno.ee/eesti-keele-tasemeeksamid#materjalid)
+📄 Перед консультацией, пожалуйста, скачайте на свой компьютер консультационный буклет для заполнения, который можно найти [на сайте Harno](https://harno.ee/eesti-keele-tasemeeksamid#materjalid)
 
 📄 Инструкции по участию в виртуальной консультации в Teams  
-[👉 здесь]( https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQAbq-ABdfD6Tqa7CWg75TrVAT1IT_wsy-QNl83_HsqE1nk)  
+[👉 здесь](https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQAbq-ABdfD6Tqa7CWg75TrVAT1IT_wsy-QNl83_HsqE1nk)  
 [перевод инструкции](Manual.md)
 
-📘 Информационный лист об экзамене 3-го уровня  
-[👉 здесь]( https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQCxBTUBdZ3zRbJTZxPAN99_AZlPe02PnpMnLb-4xPxq22I)  
-Так же данный документ находится здесь: `Информационный лист для тех, кто сдает экзамен на знание эстонского языка` [`Teabeleht tasemeeksami sooritajale 2025.pdf`](https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf)  
+📘 Информационный лист об уровневом экзамене  
+[👉 здесь](https://eegovg01.sharepoint.com/:b:/s/TestidejaHindamiseOsakond_HARNO/IQCxBTUBdZ3zRbJTZxPAN99_AZlPe02PnpMnLb-4xPxq22I)  
+Также данный документ находится здесь: `Информационный лист для тех, кто сдает экзамен на знание эстонского языка` [`Teabeleht tasemeeksami sooritajale 2025.pdf`](https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf). На ноябрь 2026 года это актуальная версия на сайте Harno.  
 [Перевод документа](../../Teabeleht-tasemeeksami-sooritajale-rus.md)
 
 
