@@ -8,7 +8,7 @@
   - `docs/Exams/`: Estonian level exams (tasemeeksamid): registration, exam rules, A2 sample tasks and exam feedback.
 - The site is built with [Zensical](https://zensical.org/), the successor of Material for MkDocs. Its configuration is still `mkdocs.yml` (theme variant `classic`).
 - The `build-site.yml` workflow runs `zensical build --strict --clean` on every push to `main` and publishes the result to GitHub Pages with `actions/deploy-pages` (the Pages source is "GitHub Actions", not a branch).
-- `scripts/` holds PowerShell 7 helper scripts. Keep scripts out of `docs/`: Zensical publishes every file there.
+- `scripts/` holds helper scripts (PowerShell 7 and Python). Keep scripts out of `docs/`: Zensical publishes every file there.
 
 ## Content rules
 
@@ -54,6 +54,7 @@
 ### Media
 
 - Keep images reasonably small for the web. Save photo-like screenshots as JPG, not PNG.
+- Before you commit new or changed images, run `python scripts/optimize_images.py <files or folders>` (needs `pip install pillow numpy pyoxipng imagequant`). Without `--apply` it is a dry run; with `--apply` it rewrites files in place. It keeps names, formats and pixel sizes: PNG is recompressed losslessly or, for files over 300 KB, reduced to a 256-colour palette when that saves at least 40 % at PSNR ≥ 38 dB; JPEG is re-encoded at quality 85 when PSNR stays ≥ 38 dB. A file changes only if it gets at least 10 % smaller. Look at the changed images before you commit.
 - Do not add long videos to the repository. Link to YouTube or similar instead.
 - `.gitattributes` normalizes line endings and marks media formats as binary. Do not convert line endings by hand.
 
