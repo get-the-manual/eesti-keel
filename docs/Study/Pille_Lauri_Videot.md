@@ -57,7 +57,7 @@ Küll me teie jaoks ka midagi leiame.
 | **Ega selles liha ei ole?** | **Да нет ли там мяса?** (Усиленное отрицание: *Нет ли в нём мяса?*) |
 | **Ei ole. Seal on kana.** | **Нет. Там есть курица.** |
 | **Oi, kahjuks kana ei sobi. Võib-olla siis tuunikala salat.** | **Ой, к сожалению, курица не подходит. Может быть, тогда салат с тунцом.** |
-| **Ei, ma ei söö kala ka. Ma olen taimetoitlane.** | **Нет, я не ем и рыбу. Я вегетарианка (веган).** |
+| **Ei, ma ei söö kala ka. Ma olen taimetoitlane.** | **Нет, я не ем и рыбу. Я вегетарианка.** |
 | **Küll me teie jaoks ka midagi leiame.** | **Конечно, мы и для вас что-нибудь найдем.** |
 
 
@@ -93,7 +93,7 @@ Tervist.
 | Soovite veel midagi? | Желаете ещё что-нибудь? |
 | Palun kaks Cocat ja kaks popkorni. Sobib? | Пожалуйста, две Колы и два попкорна. Подходит? |
 | Sul on pensionitunnistus? Miks? Sa ei ole ju vana? | У тебя пенсионное удостоверение? Почему? Ты же не старая? |
-| Mul on pensionitunnistus, sest mul on kuulmispuue. Ma saan puudetoetust. | У меня пенсионное удостоверение, потому что у меня нарушение слуха (инвалидность по слуху). Я получаю пособие по нетрудоспособности. |
+| Mul on pensionitunnistus, sest mul on kuulmispuue. Ma saan puudetoetust. | У меня пенсионное удостоверение, потому что у меня нарушение слуха (инвалидность по слуху). Я получаю пособие по инвалидности. |
 | Sa kuuled halvasti? | Ты плохо слышишь? |
 | Ma kasutan kuuldeaparaati. Mu isa on kurt, mina olen vaegkuulja. | Я пользуюсь слуховым аппаратом. Мой отец глухой, а я слабослышащая. |
 
@@ -224,7 +224,7 @@ Aitäh.
 * Ta lamab maas ja hoiab südame juurest kinni. Mis ma tegema pean?  
 * Keerake ta paremale küljele. Kus te asute?  
 * Kalevi tänaval. Meie kõrval on maja nr 22.  
-* Jääge palun ootama, kiirabi tuleb kohe. Kuidas on teie nimi ja telefoni number?  
+* Jääge palun ootama, kiirabi tuleb kohe. Kuidas on teie nimi ja telefoninumber?  
 * Lauri Mägi, 5-7-5-7-6-3-1.
 
 ## 12. [Pille ja Lauri pakivad kohvrit](https://www.youtube.com/watch?v=JutqcmVlViY)

@@ -384,9 +384,9 @@ C. Kell viis sobib hästi.
 
 ### Вопросы 
 1. Millal on sinu sõbra sünnipäev? - 24.06.   
-A. 24.juunil  
-B. 24.juuni  
-C. 24.juunis  
+A. 24. juunil  
+B. 24. juuni  
+C. 24. juunis  
 
 2. Meie peres on kolm ...  
 A. laps  

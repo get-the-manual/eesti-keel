@@ -9,7 +9,7 @@ Kalle Toome töötab fotograafina.
 Ta töötab Tartus fotostuudios Sinilill.   
 Esmaspäevast kolmapäevani töötab ta kella üheteistkümnest kuueni.  
 Laupäeval on ta tööl kella kaheteistkümnest neljani.  
-Tema E-post on kalle@fotostuudio.ee.  
+Tema e-post on kalle@fotostuudio.ee.  
 Tema aadress on Jõe 17, Tartu.
 
 ## Пример 2 (мой)
@@ -69,10 +69,10 @@ Kui teil on küsimusi või soovite lauda broneerida, võite helistada numbril 12
 
 ![](Kir_1_7.jpg) 
 
-Visiitkaart (inimene) .  
+Visiitkaart (inimene).  
 Maria Kask on raamatukoguhoidja.  
 Ta töötab Vana Linnaraamatukogus Tartus.  
-Raamatukogu asub Raekoja plats 5.  
+Raamatukogu asub aadressil Raekoja plats 5.  
 Ta töötab esmaspäevast reedeni kell 10-18.  
 Temaga saab ühendust telefoni ja e-posti teel.
 
@@ -85,7 +85,7 @@ Keelekursus.
 See on eesti keele kursus algtasemele.  
 Kursus toimub Keelekoolis Tere Tallinnas.  
 Kursus algab 5. märtsil ja tunnid on teisipäeval ja neljapäeval õhtul.  
-Kursusele saab registreerida telefoni ja e-posti teel.  
+Kursusele saab registreeruda telefoni ja e-posti teel.  
 
 
 ## Пример 9

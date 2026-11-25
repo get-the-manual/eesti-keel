@@ -36,7 +36,7 @@ Tunnen end hästi. (Чувствую себя хорошо).
 | кому? | **endale** | себе | *Ostan endale* (куплю себе). |
 | у кого? | **endal** | у себя / самого | *Mul endal on...* (у меня у самого есть...). |
 | от кого? | **endalt** | от себя / у себя | *Küsi endalt* (спроси у самого себя). |
-| кем? | **endaks** | собой | *Jää iseendaks* (оставайся собой). |
+| кем? | **endaks** | собой | *Jää iseendaks* (оставайся собой; iseendaks = ise + endaks). |
 | без кого? | **endata** | без себя | *Endata on raske* (без самого себя трудно). |
 | с кем? | **endaga** | с собой | *Võta endaga kaasa* (возьми с собой). |
 

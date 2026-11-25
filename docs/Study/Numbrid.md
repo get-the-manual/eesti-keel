@@ -88,7 +88,7 @@
 
 ### **Millele?** 
 
-Направление или нахождение (на этаж, на время, к числу).  
+Направление (на этаж, на время, к числу).  
 
 Ответ на вопросы:  
 
@@ -143,7 +143,7 @@
 `Kahekorruseline` maja. - Двухэтажный дом.  
 `viiekorruseline` maja. - пятиэтажный дом.  
 `Mitmetoaline` korter see on? See on `kolmetoaline` korter. — Сколькикомнатная квартира это? Это - трехкомнатная квартира  
-`Viieaastane` laps — Пятилетний (viie + aastane) ребенок.   
+`Viieaastane` laps — Пятилетний (viie + aastane) ребенок. Здесь суффикс **-ne** (_aastane_), а не -line.   
 
 
 На вопрос `какую?` образуется по формуле: **Omastav + суффикс -list**  
@@ -230,5 +230,5 @@ kahekümne viies
 Maria vanematel on `kolmetoaline` korter. - У родителей Марии - трехкомнатная квартира  
 Nende maja on `kolmekorruseline`. - Их дом - трехэтажный дом  
 Marial on `ühetoaline` korter. - У Марии однокомнатная квартира  
-See maja on `viiekorruseline`. - пятиэтажный дом
+See maja on `viiekorruseline`. - Этот дом - пятиэтажный.
 
