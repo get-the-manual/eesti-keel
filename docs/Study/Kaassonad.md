@@ -31,7 +31,7 @@
 | keskel       | в центре            | Toa keskel on laud (В центре комнаты стол)                                                |
 | kõrval       | рядом               | минимальная дистанция. Pilt on akna kõrval seinal                                         |
 | juures       | рядом               | чуть побольше дистанция. Akna juures on laud                                              |
-| **ääres**    | у / вдоль (края)    | **Seina ääres** (У стены). Применяется к объектам где есть край, окно, стена, море, озеро |
+| **ääres**    | у / вдоль (края)    | **Seina ääres** (У стены). Применяется к объектам, где есть край, окно, стена, море, озеро |
 | lähedal      | в пешей доступности | Kool on lähedal.                                                                          |
 | kaugel       | далеко              | Kino on kaugel                                                                            |
 | vasakul      | слева               | Aken on vasakul.                                                                          |

@@ -41,7 +41,7 @@ Ta joob kohvi. - Он/она пьёт кофе.
 Ta sööb. - Он/она ест.  
 Ta töötab arvutiga. — Он/она работает за компьютером.  
 Nad vestlevad omavahel. - Они общаются между собой  
-Naised istuvad laua taga ja räägivad. - Женщины сидят да столом и разговаривают  
+Naised istuvad laua taga ja räägivad. - Женщины сидят за столом и разговаривают  
 
 
 **Riided**   

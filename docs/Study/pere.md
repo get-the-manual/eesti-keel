@@ -75,8 +75,8 @@ mehevend - мужа брат
 
 У Сигне и Рейна двое детей	Signel ja Reinul on kaks last 
   
-А.Она - Антса сына дочь. - A. Ta on Antsu pojatütar.   
-В. Она - Марта?	 - B. Kas ta on Marta?   
+A. Она - Антса сына дочь. - A. Ta on Antsu pojatütar.   
+B. Она - Марта?	 - B. Kas ta on Marta?   
 
 У моей мамы есть брат	Minu emal on vend  
 
