@@ -50,7 +50,7 @@ pojapoeg - сына сын (внук)
 pojanaine - сына жена  
 minia - pojanaine (невестка)  
 
-# naine / naised
+## naine / naised
 naisetütar - жены дочь,   (от предыдущего брака)  
 naisepoeg - жены сын  (от предыдущего брака)  
 naiseõde  

@@ -259,7 +259,7 @@ D. lähedal
 5 C  
 6 D  
 7 C  
-8 С  
+8 C  
 9 B  
 10 C  
 11 C  

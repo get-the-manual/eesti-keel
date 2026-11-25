@@ -27,7 +27,7 @@
 - Start every page with one H1 (`# Title`). Use H2/H3 for sections; do not skip levels between siblings.
 - Put a blank line before every list. Without it, Python-Markdown renders the items as one paragraph with literal `-` or `1.` text.
 - Indent nested content (sub-lists, block quotes, paragraphs) by 4 spaces under its list item.
-- Inside a paragraph, a line break is two spaces at the end of the line (MD009 is disabled in `.markdownlint.json` for this). `scripts/FixMarkdownLineBreaks.ps1` adds the missing trailing spaces; review its diff, because it also touches lines inside lists and multi-line code blocks.
+- Inside a paragraph, a line break is two spaces at the end of the line (MD009 is disabled in `.markdownlint.json` for this). `pwsh scripts/FixMarkdownLineBreaks.ps1` adds the missing trailing spaces in `docs/` (or in one file given as an argument). It skips headings, tables, list starts, raw HTML, code blocks and `<script>`/`<style>` blocks, and writes UTF-8 without BOM. Review its diff before you commit.
 - Bold and italic markers must touch the text: `**-s**`, not `**-s **` or `****-s****`.
 - Every table needs a header separator row and the same number of columns in each row.
 

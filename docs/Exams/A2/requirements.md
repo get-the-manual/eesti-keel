@@ -1,4 +1,4 @@
-﻿# Требования для экзамена на уровень А2
+﻿# Требования для экзамена на уровень A2
 
 Требования изложены на странице [Eesti keele tasemeeksamid | Haridus- ja Noorteamet.html](https://harno.ee/eesti-keele-tasemeeksamid#materjalid)  
 (перевод с эстонского):
