@@ -3,6 +3,7 @@
 В эстонском языке логика падежей места (как «внутренних», так и «внешних») обычно следует правилу: **Kuhu? (Куда?), Kus? (Где?), Kust? (Откуда?)**
 
 Этот порядок считается самым удобным для запоминания, потому что он повторяет путь объекта:  
+
 1. **Куда?** Ты идешь на работу (**tööle** или **ametisse**).    
 2. **Где?** Ты сидишь на работе (**tööl** или **ametis**).    
 3. **Откуда?** Ты возвращаешься с работы (**töölt** или **ametist**).
@@ -10,6 +11,7 @@
 ## Отличия
 
 Важное отличие в эстонском языке:  
+
 - вопрос **KUHU? (Куда?)**   для глаголов: unustasin (забыл)  
 - вопрос **KUST? (Откуда?)**  применяется для глаголов: tulen (пришел), leidma (находить), ostma (покупать), saama (получить), laenama (одолжить) 
 
@@ -32,7 +34,7 @@
 | postkontor, -i (почта)                        | postkontorisse                                         | postkontoris                                     | postkontorist                                                        |
 | spaa (спа)                                    | spaasse                                                | spaas                                            | spaast                                                               |
 | teater, teatri (театр)                        | teatrisse                                              | teatris                                          | teatrist                                                             |
-| teenindus, -e (обслуживание, сервис)          | teenindusse                                            | teeninduses                                      | teenindust                                                           |
+| teenindus, -e (обслуживание, сервис)          | teenindusse                                            | teeninduses                                      | teenindusest                                                           |
 
 Примеры:  
 Ma lähen linnavalitsusse.  
@@ -48,7 +50,7 @@ Meie auto seisab kesklinna parklas.
 | kursus, kursuse (курсы)                       | kursusele                                             | kursusel                                         | kursuselt                                                           |
 | laud, laua (стол)                             | lauale                                                | laual                                            | laualt                                                              |
 | maa, maa                                      | maale                                                 | maal                                             | maalt                                                               |
-| matk, matka (поход)                           | matkale                                               | matkal                                           | matkale                                                             |
+| matk, matka (поход)                           | matkale                                               | matkal                                           | matkalt                                                             |
 | parem, parema (право)                         | paremale                                              | paremal                                          | paremalt                                                            |
 | plats, platsi (площадь)                       | platsile                                              | platsil                                          | platsilt                                                            |
 | tänav, tänava (улица)                         | tänavale                                              | tänaval                                          | tänavalt                                                            |
@@ -68,7 +70,7 @@ Ma tulen kirikust jõulukontserdilt.
 | hotell, -i                                    | hotelli                                                 | hotellis                                             | hotellist                                                               |
 | kaubamaja, i                                  | kaubamajja                                              | kaubamajas                                           | kaubamajast                                                             |
 | kino, -                                       | kinno                                                   | kinos                                                | kinost                                                                  |
-| kodu, -                                       | koju                                                    | kodus                                                | koduss                                                                  |
+| kodu, -                                       | koju                                                    | kodus                                                | kodust                                                                   |
 | kool, -i                                      | kooli                                                   | koolis                                               | koolist                                                                 |
 | pank, panga                                   | panka                                                   | pangas                                               | pangast                                                                 |
 | pood, poe                                     | poodi                                                   | poes                                                 | poest                                                                   |
@@ -80,6 +82,6 @@ Ta töötab apteegis.
 Ma unustasin oma rahakoti raudteejaama.  
 Jõululaupäeva õhtul sõitsime kirikust koju.  
 Ma tulen raamatukogust.  
-Ma käin tihti laupäeviti raamatukogu.  
+Ma käin tihti laupäeviti raamatukogus.  
 Lähme järgmine kord koos raamatukokku.
 

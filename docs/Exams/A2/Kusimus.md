@@ -55,7 +55,7 @@
 		"Mida sa hommikusöögiks sööd? - Что ты ешь на завтрак?",
 		"Mis on sinu lemmikhommikusöök? - Какая твоя любимая еда на завтрак?",
 		"Mis on sinu lemmiktoit? - Какая твоя любимая еда?",
-		"Kas sulle maitsev jäätis? - Тебе нравится мороженое?",
+		"Kas sulle maitseb jäätis? - Тебе нравится мороженое?",
 		"Mida sa tööpäeva õhtul teed? - Что ты делаешь в рабочий день вечером?",
 		"Mida sa nädalavahetusel teed? - Что ты делаешь на выходных?",
 		"Mida sa talvel teed? - Что ты делаешь, когда зима?",

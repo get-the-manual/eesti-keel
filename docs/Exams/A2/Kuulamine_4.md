@@ -23,9 +23,9 @@
 **Mees:** Tegelikult viisin rattad talvel maale. Jalgrattaga me kahjuks sõita ei saa.  
 **Naine:** Kui kurb! Aga läheme siis hoopis ööklubisse tantsima? Me pole nii ammu tantsinud. Ja neljapäeval on pilet odavam kui nädalavahetusel. Mis sa arvad?  
 **Mees:** Väga hea, teeme nii. Mida sa reedel teha tahaksid? Mina ei oskagi enam midagi välja pakkuda.  
-**Mees:** Võiksime minna näiteks basseini ujuma ja pärast läheme sauna. Kas pole hea mõte?  
-**Naine:** Teine variant oleks minna jõe peale paadiga sõitma. Läheme siis ikkagi ujuma ja paadiga sõidame laupäeval, sobib?  
-**Mees:** Nojah, loodame, et tuleb ilus ilm. Aga mida me pühapäeval teeme? Kas jalutame lihtsalt mere ääres? Seal on nii ilus.  
+**Naine:** Võiksime minna näiteks basseini ujuma ja pärast läheme sauna. Kas pole hea mõte?  
+**Mees:** Teine variant oleks minna jõe peale paadiga sõitma. Läheme siis ikkagi ujuma ja paadiga sõidame laupäeval, sobib?  
+**Naine:** Nojah, loodame, et tuleb ilus ilm. Aga mida me pühapäeval teeme? Kas jalutame lihtsalt mere ääres? Seal on nii ilus.  
 **Mees:** Ei lähe jälle jalutama. Mängime hoopis tennist. See on väga huvitav mäng.  
 **Naine:** Ma ei ole kunagi tennist mänginud.  
 **Mees:** Siis proovime koos, ma õpetan sind.  
@@ -46,9 +46,9 @@
 **Мужчина:** Вообще-то, зимой я отвез велосипеды в деревню (за город). На велосипедах мы, к сожалению, покататься не сможем.  
 **Женщина:** Как грустно! Но тогда давай пойдем лучше в ночной клуб танцевать? Мы так давно не танцевали. И в четверг билет дешевле, чем на выходных. Что думаешь?  
 **Мужчина:** Очень хорошо, давай так и сделаем. Что бы ты хотела поделать в пятницу? Я уже и не знаю, что предложить.  
-**Мужчина:** Мы могли бы пойти, например, поплавать в бассейн, а после пойдем в сауну. Разве не отличная идея?  
-**Женщина:** Другой вариант — поехать на реку кататься на лодке. Давай все же пойдем плавать, а на лодке покатаемся в субботу, идет?  
-**Мужчина:** Ну да, будем надеяться, что будет хорошая погода. А что мы будем делать в воскресенье? Просто погуляем у моря? Там так красиво.  
+**Женщина:** Мы могли бы пойти, например, поплавать в бассейн, а после пойдем в сауну. Разве не отличная идея?  
+**Мужчина:** Другой вариант — поехать на реку кататься на лодке. Давай все же пойдем плавать, а на лодке покатаемся в субботу, идет?  
+**Женщина:** Ну да, будем надеяться, что будет хорошая погода. А что мы будем делать в воскресенье? Просто погуляем у моря? Там так красиво.  
 **Мужчина:** Не пойдем снова гулять. Давай лучше поиграем в теннис. Это очень интересная игра.  
 **Женщина:** Я никогда не играла в теннис.  
 **Мужчина:** Тогда попробуем вместе, я тебя научу.  

@@ -18,7 +18,7 @@ Sa vaata**si**d
 Te vaata**si**te
 
 3-е лицо единственное число:  
- **-ma** заменяем на **-s **  
+ **-ma** заменяем на **-s**  
 Ta vaata**s**
 
 3-е лицо множественное число:  
@@ -27,7 +27,7 @@ Nad vaata**sid**
 
 #### Отрицательная форма для всех лиц
 
-В **-da** форме, **-da** заменяем на **-nud**  
+В **-da** форме, **-da/-ta** заменяем на **-nud**  
 Ma/sa/nad ei vaada**nud**
 
 ### Окончание **-i-**
@@ -37,12 +37,12 @@ Ma/sa/nad ei vaada**nud**
 #### Положительная форма
 
 1-е и 2-е лицо:  
-В **-ma** форме, -ma (vaata) заменяем на **-i-** и окончание лица (-n, -me, -d, -te)  
+В **-ma** форме, -ma (söö-, tule-) заменяем на **-i-** и окончание лица (-n, -me, -d, -te)  
 Ma sõ**i**n (Я ел).    
 Ma **tuli**n (Я пришёл).   
 
 3-е лицо единственное число:  
-добавляем **-i **   
+добавляем **-i**   
 Ta jõi (Он пил)
 
 3-е лицо множественное число:  
@@ -59,16 +59,17 @@ Ma/sa/nad **ei joonud**
 #### 1. Односложные глаголы (Основа на гласную)
 
 У этих глаголов в прошедшем времени появляется буква **-i-**, и они очень часто используются в быту.  
+
 - **Sööma** (Süüa) — есть: Ma sõ**i**n (Я ел).    
 - **Jooma** (Juua) — пить: Ma jõ**i**n (Я пил).    
 - **Lööma** (Lüüa) — бить/ударять: Ma **lõi**n (Я ударил).    
-- **Tööma** (Tuua) — приносить: Ma **tõi**n (Я принёс).    
+- **Tooma** (Tuua) — приносить: Ma **tõi**n (Я принёс).    
 - **Looma** (Luua) — создавать: Ma **lõi**n (Я создал).    
-- **Müüma** (Müüa) — продавать: Ma **müi**n (Я продал).    
 
-#### 2. Двусложные глаголы (Основа на -e или -u)
+#### 2. Двусложные глаголы (основа ma-инфинитива на -e)
 
-Если основа **da**-инфинитива заканчивается на -e или -u, в прошедшем времени они часто превращаются в **-i-**.  
+Если основа **ma**-инфинитива заканчивается на -e (tule-ma, pane-ma, tege-ma), в прошедшем времени они часто превращаются в **-i-**.  
+
 - **Tulema** (Tulla) — приходить: Ma **tuli**n (Я пришёл).    
 - **Panema** (Panna) — класть/надевать: Ma **pani**n (Я положил/надел).    
 - **Tegema** (Teha) — делать: Ma **tegi**n (Я сделал).    
@@ -77,6 +78,7 @@ Ma/sa/nad **ei joonud**
 
 #### 3. Глаголы с чередованием в корне
 Некоторые глаголы «теряют» или меняют буквы, и тогда окончание тоже будет **-i-**.  
+
 - **Pidama** (Pidada) — быть должным: Ma **pidi**n (Я должен был).  
 - **Laskma** (Lasta) — пускать/позволять: Ma **lasi**n (Я пустил).
 
@@ -84,6 +86,7 @@ Ma/sa/nad **ei joonud**
 ## Täisminevik - Перфект
 
 **Täisminevik** (перфект) — это прошедшее время, используемое:  
+
 1. когда в предложении **не** указано конкретное время.  
 2. когда говорим об опыте или результате  
 3. когда используем слова, обозначающие частоту употребления (harva, tihti, mõnikord, kunagi, mitte kunagi).  
@@ -96,7 +99,7 @@ Ma olen mitu korda remonti teinud.
 Olen kaks korda maratonil käinud.
 
 ### Отрицательная форма
-**ei ole** + основа на _-nud
+**ei ole** + основа на _-nud_
 
 Ma ei ole kunagi töötanud suures firmas.
 
@@ -123,7 +126,7 @@ Ma ei ole kunagi töötanud suures firmas.
 | jooksma / jooksta | бегать                       | jooksin                  | jooksis    | jooksid     | jooksnud            |
 | jooma / juua      | пить                         | jõin                     | jõi        | jõid        | joonud              |
 | käima / käia      | посещать                     | käisin                   | käis       | käisid      | käinud              |
-| kandma            | носить / надевать переводить | kandsin                  | kandis     | kandsid     | kandnud             |
+| kandma            | носить / надевать / переводить | kandsin                  | kandis     | kandsid     | kandnud             |
 | laskma / lasta    | пускать                      | lasin                    | lasi       | lasid       | lasknud             |
 | leidma / leida    | найти                        | leidsin                  | leidis     | leidsid     | leidnud             |
 | looma / luua      | создавать                    | lõin                     | lõi        | lõid        | loonud              |
@@ -136,7 +139,7 @@ Ma ei ole kunagi töötanud suures firmas.
 | panema / panna    | класть                       | panin                    | pani       | panid       | pannud              |
 | pesema / pesta    | мыть                         | pesin                    | pesi       | pesid       | pesnud              |
 | pidama / pidada   | должен                       | pidin                    | pidi       | pidid       | pidanud             |
-| puhkama / -ta     | отдыхать                     | puhkasin                 | puhkas     | puhkasid    | puhanud             |
+| puhkama / puhata  | отдыхать                     | puhkasin                 | puhkas     | puhkasid    | puhanud             |
 | rääkima / rääkida | говорить                     | rääkisin                 | rääkis     | rääkisid    | rääkinud            |
 | saama / saada     | мочь / получать              | sain                     | sai        | said        | saanud              |
 | surema / surra    | умирать                      | surin                    | suri       | surid       | surnud              |

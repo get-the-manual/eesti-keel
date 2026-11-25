@@ -21,7 +21,7 @@ tädi, onu - тетя, дядя
 õemees - сестры муж   
 õelapsed - племянники (сестры дети)  
 
-## vend / veenad
+## vend / vennad
 
 vennatütar - брата дочь  
 vennapoeg - брата сын  
@@ -38,14 +38,14 @@ onutütar
 onupoeg  
 onunaine  
 
-## tütar / tütre
+## tütar / tütred
 tütretütar - дочери дочь  
 tütrepoeg - дочери сын  
 tütremees - дочери муж  
 väimees  (зять)  
 
 ## poeg / pojad
-pojatütar - сына дочь (внук)  
+pojatütar - сына дочь (внучка)  
 pojapoeg - сына сын (внук)  
 pojanaine - сына жена  
 minia - pojanaine (невестка)  

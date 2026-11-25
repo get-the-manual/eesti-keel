@@ -13,45 +13,47 @@
 
 ### Положительная форма 
 
-**1. -takse** (основной вариант)  
-ставится в большинстве глаголов
+Окончание выбирают по форме **da-инфинитива**.
 
-* обычные глаголы на **-ma**  
-* основа заканчивается на согласную
+**1. -takse** (основной вариант)  
+da-инфинитив из двух и более слогов на **-da** или **-ta**: окончание **-da/-ta** заменяем на **-takse**.
 
 **Примеры:**
 
-* kirjutama → kirjutatakse  
-* töötama → töötatakse  
-* õppima → õpitakse  
-* rääkima → räägitakse  
+* kirjutama (kirjutada) → kirjutatakse  
+* töötama (töötada) → töötatakse  
+* õppima (õppida) → õpitakse  
+* rääkima (rääkida) → räägitakse  
+* vaatama (vaadata) → vaadatakse  
 
 ---
 
 **2. -dakse**  
-если основа заканчивается на **гласную** и **d сохраняется**
-
-* глаголы типа **-da / -a**, где нет упрощения
+односложный da-инфинитив на **-da**: окончание **-da** заменяем на **-dakse**.
 
 **Примеры:**
 
-* saada → saadakse  
-* jääda → jäädakse
+* saama (saada) → saadakse  
+* jääma (jääda) → jäädakse  
+* laulma (laulda) → lauldakse  
+* ütlema (öelda) → öeldakse  
 
 ---
 
 **3. -akse**  
-если основа заканчивается на **гласную** и **d выпадает**
-
-* часто при длинных гласных (oo, öö, ää)
+da-инфинитив оканчивается на **-a** без **d/t** (tulla, minna, olla, süüa, teha): окончание **-a** заменяем на **-akse**.
 
 **Примеры:**
 
-* jooma → juuakse  
-* sööma → süüakse  
-* lööma → lüüakse  
-* tooma → tuuakse  
-* tegema → tehakse (делают)  
+* tulema (tulla) → tullakse  
+* minema (minna) → minnakse  
+* olema (olla) → ollakse  
+* jooma (juua) → juuakse  
+* sööma (süüa) → süüakse  
+* käima (käia) → käiakse  
+* tegema (teha) → tehakse (делают)  
+
+Есть исключения, например sõitma (sõita) → sõidetakse.  
 
 
 
@@ -60,7 +62,7 @@
 **Образование:**
 
 ```
-ei + основа глагола + -ta
+ei + основа глагола + -ta/-da
 ```
 
 **Примеры:**
@@ -79,19 +81,19 @@ ei + основа глагола + -ta
 | jooma     | пить              | juuakse             | ei jooda            |
 | käima     | ходить, бывать    | käiakse             | ei käida            |
 | kirjutama | писать            | kirjutatakse        | ei kirjutata        |
-| kulutama  | слушать           | kulutatakse         | ei kulutata         |
+| kulutama  | тратить           | kulutatakse         | ei kulutata         |
 | küsima    | спрашивать        | küsitakse           | ei küsita           |
 | laulma    | петь              | lauldakse           | ei laulda           |
 | lugema    | читать            | loetakse            | ei loeta            |
 | minema    | идти              | minnakse            | ei minda            |
 | olema     | быть              | ollakse             | ei olda             |
-| otsima    | покупать          | otsitakse           | ei otsita           |
+| otsima    | искать            | otsitakse           | ei otsita           |
 | raiskama  | тратить           | raisatakse          | ei raisata          |
 | rääkima   | говорить          | räägitakse          | ei räägita          |
 | saama     | получать, мочь    | saadakse            | ei saada            |
 | sööma     | есть              | süüakse             | ei sööda            |
 | sõitma    | ехать             | sõidetakse          | ei sõideta          |
-| tarbima   | потреблять        | tarbitakse          | ei tarbida          |
+| tarbima   | потреблять        | tarbitakse          | ei tarbita          |
 | tegema    | делать            | tehakse             | ei tehta            |
 | tulema    | приходить         | tullakse            | ei tulda            |
 | töötama   | работать          | töötatakse          | ei töötata          |
@@ -118,7 +120,7 @@ ei + основа глагола + -ta
 ### Положительная форма
 
 ```
-основа + -ti
+основа + -ti/-di
 ```
 
 **Примеры:**
@@ -130,7 +132,7 @@ ei + основа глагола + -ta
 ### Отрицательная форма
 
 ```
-ei + основа + -tud
+ei + основа + -tud/-dud
 ```
 
 **Примеры:**

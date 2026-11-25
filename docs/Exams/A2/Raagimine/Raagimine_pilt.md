@@ -64,12 +64,12 @@ Laual on telefon. На столе телефон.
 Laual on raamat. На столе книга.  
 Tal on käes kott. — У него/неё в руке сумка.  
 Tal on käes telefon. — У него/неё в руке телефон.  
-Tema käes on on lilled. - У неё в руках цветы.  
+Tema käes on lilled. - У неё в руках цветы.  
 Laual on pastakas. - На столе - ручка  
 Ta hoiab käekotti käes. - Она держит сумочку в руке
 
 **Emotsioon**  
-Ta tundub rahulikkuna. — Он/она кажется спокойным(-ой).  
+Ta tundub rahulikuna. — Он/она кажется спокойным(-ой).  
 Ta tundub rõõmsana. — Он/она кажется радостным(-ой).  
 Ta tundub keskendununa. — Он/она кажется сосредоточенным(-ой).  
 Ta naeratab. - Он улыбается.  
@@ -107,7 +107,7 @@ Nad istuvad õues laua taga, selle peal on taldrikud salati ja muude toitudega.
 Ühel naisel on käes klaas vett.  
 Kõik naised tunduvad rõõmsad – nad naeratavad ja vestlevad omavahel, võib olla nad on head sõbrad.  
 Taustal on palju rohelust, mis näitab, et nad on ilmselt aias või terrassil.  
-Mulle tundub, et pildil on suvi, sest naistel on seljas kerge riietus - kleit ja Tsärk ja päikeseprillid.  
+Mulle tundub, et pildil on suvi, sest naistel on seljas kerge riietus - kleit ja T-särk ja päikeseprillid.  
 Ilm tundub soe ja päikesepaisteline
 
 ## Пример 3

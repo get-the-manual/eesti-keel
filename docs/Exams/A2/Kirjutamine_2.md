@@ -5,6 +5,7 @@
 ### Пример 1 (мой)
 
 Leidsite oma kodust sõbra rahakoti. Kirjutage talle teade:  
+
 - Kust te rahakoti leidsite?  
 - Milline rahakott on?  
 - Kuidas sõber rahakoti tagasi saab?  
@@ -67,6 +68,7 @@ Ma sõidan koju tagasi kell 19.00
 
 Teie eesti keele õpetaja palus teil kirjeldada oma nädalavahetust.  
 Kirjutage teemal: **Minu nädalavahetus**  
+
 - Kus käin?  
 - Mida teen?  
 - Kellega kohtun?    

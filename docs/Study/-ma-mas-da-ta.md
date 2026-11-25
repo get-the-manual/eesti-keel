@@ -11,7 +11,7 @@ jooksma, joosta, jooksen - бежать
 kutsuma, kutsuda, kutsun - приглашать  
 minema, minna, lähen - ходить  
 harjuma, harjuda, harjun - привыкать  
-nõustama, nõustada, nõustun - соглашаться   
+nõustuma, nõustuda, nõustun - соглашаться   
 olema, olla, olen valmis - готов (делать что-то)  
 olema, olla, olen nõus - согласен  
 valmistuma, valmistuda, valmistun - готовиться  
@@ -33,6 +33,7 @@ tulema, tulla, tulen - приходить
 
 **olema** + -mas - аналог английского _Present Continuous_. Она подчеркивает, что действие происходит **прямо сейчас**, в момент речи, или человек находится в процессе этого действия.  
 Примеры:    
+
 - **Ma olen tulemas.** — Я иду / я на подходе.     
 - **Ta on juba minemas.** — Он уже уходит (собирается выходить прямо сейчас).  
 - **Ma olen õppimas.** — Я (сейчас) учусь / нахожусь в процессе учебы.  

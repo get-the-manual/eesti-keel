@@ -52,7 +52,7 @@
 | **millestki** | о чём-то / из чего-то | Räägi **millestki** huvitavast. (Расскажи о чём-то интересном). |
 | **millelegi** | чему-то / на что-то | Ta loodab **millelegi**. (Он надеется на что-то). |
 | **millegil** | на чём-то / у чего-то | **Millegil** on plekk peal. (На чём-то есть пятно). |
-| **millelgilt** | с чего-то | Võta see **millegilt**. (Возьми это с чего-то). |
+| **millegilt** | с чего-то | Võta see **millegilt**. (Возьми это с чего-то). |
 | **millegagi** | чем-то / с чем-то | Ma kirjutan **millegagi**. (Я чем-то пишу). |
 | **millegita** | без чего-то | See on **millegita** tühi. (Это без чего-то пустое). |
 

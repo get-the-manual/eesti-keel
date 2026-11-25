@@ -8,7 +8,7 @@ Apteeker - Аптекарь (фармацевт)
 Arst - Врач  
 Bussijuht - Водитель автобуса  
 Ehitaja - Строитель  
-Elekter (Elektrik) - Электрик  
+Elektrik - Электрик  
 Ettekandja - Официант  
 Fotograaf - Фотограф  
 Hotelliadministraator - Администратор отеля  
@@ -75,11 +75,13 @@ Turvatöötaja - Охранник
 В эстонском языке нет отдельных правил для **-ina**, **-una** или **-ena**.   
 Есть только два окончания: **-na** и **-ks**.  
 Гласная перед ними — это просто **последняя буква второй формы слова** (Omastav).  
+
 1. Берем слово во **второй форме** (Omastav отвечает на вопрос _Kelle?_).     
 2. Приклеиваем к ней **-na** или **-ks**.  
 
 Есть разные правила окончаний во второй форме:  
+
 1. -ja => -ja: müüja, laulja  
-2. -line => -lise: koduabeline => koduabeli`se`  
-3. -er, -ur, -ar, -är, -or => добавляется -i: jukur => juksur`i`  
-4. -k, -ik, -nik => добавляется -u: politseinik => politseini`k`  
+2. -line => -lise: koduabiline => koduabili`se`  
+3. -er, -ur, -ar, -är, -or => добавляется -i: juuksur => juuksur`i`  
+4. -ik, -nik => добавляется -u: politseinik => politseinik`u`  

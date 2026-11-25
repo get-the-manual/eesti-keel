@@ -80,8 +80,6 @@ Sa kuuled halvasti?
 Ma kasutan kuuldeaparaati. Mu isa on kurt, mina olen vaegkuulja.  
 Tervist.
 
-Вот перевод диалога с эстонского на русский язык:
-
 ### 📝 Перевод диалога
 
 | Оригинал (Эстонский) | Перевод (Русский) |
@@ -151,7 +149,7 @@ Transcript:
 
 * Lauri. Lauri! Lauri!!!  
 * Mis on? Tahad ka kuulata? Jube hea musa.  
-* Ei, tänan väga. Ma taha öelda, et keera see muusika vaiksemaks, sa rikud nii oma kuulmise ära.  
+* Ei, tänan väga. Ma tahan öelda, et keera see muusika vaiksemaks, sa rikud nii oma kuulmise ära.  
 * Mis jutt see on? Muusikat peabki valjusti kuulama.  
 * Tõsijutt. Väga tugevad helid võivad kuulmist kahjustada. Ma just lugesin selle kohta.  
 * Ei juhtu minuga midagi. Ma olen kogu aeg niimoodi muusikat kuulanud.  
@@ -304,7 +302,7 @@ Aitäh.
 * See ei tööta. Tuleb ümber vahetada.  
 * Kas see veekeetja on meie poest ostetud?  
 * Muidugi. Alles eile ostsime.  
-* Kas otsutšekk on alles?  
+* Kas ostutšekk on alles?  
 * Kaebusi saame lahendada ainult tšeki alusel.  
 * Veekeetja ei lähe enam kuumaks.  
 * Me soovime selle tagasi anda.  
@@ -398,7 +396,7 @@ Aitäh.
 
 Tere, minu nimi on Jüri Jaanson ja ma olen vaegkuulja.  
 Minu kuulmisjääk on kõnesagedustel 5 protsenti, aga see ei ole seganud mind elus hakkama saamast.  
-Olen õppinud Tartus Hiie koolis, varasemas Tartu I Eriinternaakoolis ja sealt liikusin edasi tavakooli.  
+Olen õppinud Tartus Hiie koolis, varasemas Tartu I Eriinternaatkoolis ja sealt liikusin edasi tavakooli.  
 Hiljem olin pikka aega tippsportlane ja praegu olen Riigikogu saadik.  
 Meie, vaegkuuljad, ei ole mitte millegi poolest halvemad kui need inimesed, kellel kuulmisprobleemi ei ole.  
 Üks oluline asi, mis meil kindlasti olema peab on hea ja tugev eneseusk.  

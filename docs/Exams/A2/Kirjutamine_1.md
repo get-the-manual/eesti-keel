@@ -27,7 +27,7 @@ Telefon on 6781389 ja koduleht on www.tammeujula.ee.
 Pille Talu töötab massöörina.  
 Tema kabinet asub Aura salongis Tallinnas.  
 Aadress on Marja 28, kolmas korrus.  
-Ta töötab teisipäeval, kolmpäeval ja neljapäeval kella kaheteistkümnest kuueni.  
+Ta töötab teisipäeval, kolmapäeval ja neljapäeval kella kaheteistkümnest kuueni.  
 Temale saab helistada telefonil 663 1751.  
 
 
@@ -37,7 +37,7 @@ Temale saab helistada telefonil 663 1751.
 See asutus on Lõuna tervisekeskus.  
 See asub Valgas aadressil Peetri 4.  
 Seal saab minna perearsti ja pereõe juurde ning käia hambaravis ja apteegis.  
-Tervisekeskus on avatud esmaspäevast reedini kella kaheksast seitsmeni.  
+Tervisekeskus on avatud esmaspäevast reedeni kella kaheksast seitsmeni.  
 Saab helistada registratuuri telefonil 793 7783
 
 ## Пример 5 (FB)  
@@ -54,7 +54,7 @@ Temaga saab ühendust telefoni teel numbril 52344321 või e-posti teel aadressil
 See asutus on kohvik „Magus paus“.  
 See asub Tallinnas aadressil Roosi mnt 45.  
 Seal saab juua kohvi ja süüa kooki.  
-Kohvik on avatud esmaspäevast reedini kella kaheksast kaheksani.  
+Kohvik on avatud esmaspäevast reedeni kella kaheksast kaheksani.  
 Nädalavahetusel on kohvik avatud kella kümnest kuueni.  
 Rohkem infot saab telefonil 1234 4321 või meili teel info@maguspaus.ee.
 
