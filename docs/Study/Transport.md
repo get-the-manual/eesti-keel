@@ -36,7 +36,7 @@
 **kaardilugeja** - считыватель карт  
 **rool** - руль  
 **küljepeegel** - боковое зеркало  
-**turvaväljapääs** - аварийный выход  
+**varuväljapääs** (avariiväljapääs) - аварийный (запасной) выход  
 **hädaabinupp** - аварийная кнопка  
 **kliimaseade** - кондиционер  
 **sisenemine** - вход / посадка  

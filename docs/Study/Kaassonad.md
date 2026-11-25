@@ -30,11 +30,12 @@
 | **vahel**    | между               | **Voodi ja tooli vahel** (Между кроватью и стулом).                                       |
 | keskel       | в центре            | Toa keskel on laud (В центре комнаты стол)                                                |
 | kõrval       | рядом               | минимальная дистанция. Pilt on akna kõrval seinal                                         |
+| juures       | рядом               | чуть побольше дистанция. Akna juures on laud                                              |
 | **ääres**    | у / вдоль (края)    | **Seina ääres** (У стены). Применяется к объектам, где есть край, окно, стена, море, озеро |
-| lähedal      | близко / недалеко   | Kool on maja lähedal (Школа недалеко от дома).                                            |
-| kaugel       | далеко              | наречие, с **-st**: Kino on kesklinnast kaugel (Кино далеко от центра).                   |
-| vasakul      | слева               | наречие, с **-st**: Aken on uksest vasakul (Окно слева от двери).                         |
-| paremal      | справа              | наречие, с **-st**: Laua**st** paremal on hele tool (Справа от стола светлый стул).       |
+| lähedal      | близко / недалеко   | Kool on lähedal. Kool on maja lähedal (Школа недалеко от дома).                           |
+| kaugel       | далеко              | Kino on kaugel. С **-st**: Kino on kesklinnast kaugel (Кино далеко от центра).            |
+| vasakul      | слева               | Aken on vasakul. С **-st**: Aken on uksest vasakul (Окно слева от двери).                 |
+| paremal      | справа              | Paremal on hele tool. С **-st**: Laua**st** paremal on hele tool (Справа от стола светлый стул). |
 | järel        | после / вслед       | **Koer jookseb auto järel.** (Собака бежит за машиной — вслед за ней).                    |
 | vastu        | против              | Rohi köha vastu - Лекарство против кашля.                                                 |
 

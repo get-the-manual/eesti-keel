@@ -85,7 +85,7 @@ Keelekursus.
 See on eesti keele kursus algtasemele.  
 Kursus toimub Keelekoolis Tere Tallinnas.  
 Kursus algab 5. märtsil ja tunnid on teisipäeval ja neljapäeval õhtul.  
-Kursusele saab registreeruda telefoni ja e-posti teel.  
+Kursusele saab registreerida telefoni ja e-posti teel.  
 
 
 ## Пример 9

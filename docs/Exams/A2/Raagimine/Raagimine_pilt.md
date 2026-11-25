@@ -95,7 +95,7 @@ Isa kannab ruudulist särki, punast T-särki, teksapükse ja mugavaid jalanõusi
 Ema on heledas kampsunis, sinistes teksades ja valgetes tossudes.  
 Poiss kannab rohelist jopet ja teksaseid ning tüdrukul on pruun kleit ja mustad kingad.  
 Nad kõik naeratavad ja tunduvad rõõmsad.  
-Tõenäoliselt on pildil sügis, sest puudel on kollased lehed ja ilm on päikesepaisteline.  
+Tõenäoliselt pildil on sügis, sest puudel on kollased lehed ja ilm on päikesepaisteline.  
 See pere naudib ühist aega ja veedab lõbusalt päeva värskes õhus.
 
 
@@ -105,7 +105,7 @@ See pere naudib ühist aega ja veedab lõbusalt päeva värskes õhus.
 Pildil on kolm noort naist, kes söövad koos restoranis või kohvikus.  
 Nad istuvad õues laua taga, selle peal on taldrikud salati ja muude toitudega.  
 Ühel naisel on käes klaas vett.  
-Kõik naised tunduvad rõõmsad – nad naeratavad ja vestlevad omavahel, võib-olla on nad head sõbrad.  
+Kõik naised tunduvad rõõmsad – nad naeratavad ja vestlevad omavahel, võib-olla nad on head sõbrad.  
 Taustal on palju rohelust, mis näitab, et nad on ilmselt aias või terrassil.  
 Mulle tundub, et pildil on suvi, sest naistel on seljas kerge riietus - kleit ja T-särk ja päikeseprillid.  
 Ilm tundub soe ja päikesepaisteline
